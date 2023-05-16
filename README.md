@@ -1,33 +1,76 @@
 # Patoloji ve Bilişim 
 
-Patolojide Bilişimin yeri nedir?
-Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntüler ile işleyip, literatür ve bilimsel bilgiler ışığında yorumlayan ve rapor adlı yazılı bilgiyi üreten bilgi uzmanları olarak tanımlayabiliriz. Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.
-Bilginin teknoloji kullanılarak işlenmesindeki gelişmeleri, patoloji disiplini, bazen geriden bazen öncü olarak, ama emin adımlarla takip etmekte ve kendi işleyişine katmaktadır.
-Bilimsel bilginin sürekli artması, hemen her yıl yeni bir DSÖ sınıflama kitabının çıkması, yeni çıkan antikorların ve yöntemlerin tanısal test olarak kullanımındaki istatistiksel yöntemler, tümörlerin taksonomisi, “ben buna displazi derim” gibi sezgisel yaklaşımlar, klinik bilgilerin elde edilmesi, makroskopik ve mikroskopik görüntülerin elde edilmesi, işlenmesi ve saklanması, rapor yazılması, diktasyon, raporların saklanması, arşivleme, laboratuvar iş akışının düzenlenmesi ve takibi gibi bir çok basamakta yer alan bilişim teknolojileri, dijital patolojinin yaygınlaşması ile makina öğrenmesi, derin öğrenme ve yapay zeka ile karar destek sistemleri olarak günlük pratiğe daha da girmektedir.
-Patoloji raporları ve görüntüleri için kullanılan yazılımlar (Rosai 1. chapter)’da belirtildiği gibi çoğu zaman diğer laboratuvar branşları ya da radyoloj için hazırlanmış platformlara eklemlenmiş gibidirler. Patolojinin işleyişi ile çoğu zaman örtüşmeyen yazılımlar, çoğu zaman bir metin işlemcisi ve faturalandırma aracı olarak kalmaktadırlar.
-Patolojideki bilgi türleri nelerdir?
+## Patolojide Bilişimin yeri nedir?
+
+Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntüler ile işleyip, literatür ve bilimsel bilgiler ışığında yorumlayan ve rapor adlı yazılı bilgiyi üreten bilgi uzmanları olarak tanımlayabiliriz. Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.  
+
+Bilginin teknoloji kullanılarak işlenmesindeki gelişmeleri, patoloji disiplini, bazen geriden bazen öncü olarak, ama emin adımlarla takip etmekte ve kendi işleyişine katmaktadır.  
+
+- Bilimsel bilginin sürekli artması,
+- hemen her yıl yeni bir DSÖ sınıflama kitabının çıkması,
+- yeni çıkan antikorların ve yöntemlerin tanısal test olarak kullanımındaki istatistiksel yöntemler,
+- tümörlerin taksonomisi,
+- “ben buna displazi derim” gibi sezgisel yaklaşımlar,
+- klinik bilgilerin elde edilmesi,
+- makroskopik ve mikroskopik görüntülerin elde edilmesi, işlenmesi ve saklanması,
+- rapor yazılması,
+- diktasyon,
+- raporların saklanması,
+- arşivleme,
+- laboratuvar iş akışının düzenlenmesi ve takibi  
+
+gibi bir çok basamakta yer alan bilişim teknolojileri, dijital patolojinin yaygınlaşması ile makina öğrenmesi, derin öğrenme ve yapay zeka ile karar destek sistemleri olarak günlük pratiğe daha da girmektedir.
+
+Patoloji raporları ve görüntüleri için kullanılan yazılımlar (Rosai 1. chapter)’da belirtildiği gibi çoğu zaman diğer laboratuvar branşları ya da radyoloji için hazırlanmış platformlara eklemlenmiş gibidirler.  
+Patolojinin işleyişi ile çoğu zaman örtüşmeyen yazılımlar, çoğu zaman bir metin işlemcisi ve faturalandırma aracı olarak kalmaktadırlar.
+
+![](./resimler/resim1.png)
+
+
+## Patolojideki bilgi türleri nelerdir?
+
 Patolojide bilgi türleri temel olarak laboratuvar iş akışı, metin ve görüntülerden oluşmaktadır.
-Laboratuvar iş akışı: 
-Bir laboratuvar branşı olarak patolojideki iş akışı çoğu zaman hastane yöneticilerinin ve hekimlerin de bilmediği karmaşık basamaklardan oluşmaktadır. Bu basamakların her biri kendine has kalite kontrol ögeleri ve veriler içermektedir.
+
+### Laboratuvar iş akışı
+
+Bir laboratuvar branşı olarak patolojideki iş akışı çoğu zaman hastane yöneticilerinin ve hekimlerin de bilmediği karmaşık basamaklardan oluşmaktadır.  
+Bu basamakların her biri kendine has kalite kontrol ögeleri ve veriler içermektedir.  
 Her ne kadar laboratuvar branşı olarak görülse de, patoloji sadece klinikten gelen isteklerin yapıldığı bir laboratuvar değildir. Patologlar gelen spesmene bir hasta gibi yaklaşıp her spesmene özgü ayrı örnekleme ve değerlendirme yapmaktadır. Patolojinin ayrı bir klinik olarak tanımlanmaması, patoloğun tetkik isteyen bir hekim olarak kurgulanmamış olması nedeniyle hem rutin işleyişte hem de fatura ve performans değerlendirmelerinde sorunlar ortaya çıkmaktadır.
 
-
   
+![Resim 1: Patoloji iş akışı](./resimler/resim2.png)
 
 Resim 1: Patoloji iş akışı
 
 
-________________
 
 
+### Metin Bilgileri
+
+Patolojideki metin bilgilerini:
+- patoloğa
+    - klinikten ve
+    - literatürden gelen bilgiler ile
+- patoloğun ürettiği raporlar oluşturmaktadır.
 
 
-Metin Bilgileri
-Patolojideki metin bilgilerini, patoloğa klinikten ve literatürden gelen bilgiler ile patoloğun ürettiği raporlar oluşturmaktadır. Bu bilgilerin düzgün, eksiksiz ve anlaşılır olması beklenmektedir. Literatürdeki bilgi yoğunluğunun kaldırılamaz halde olduğu ve her antikorun ilk çıktığında oldukça özgün ama çalışmalar sonunda yıllar içinde kullanılamaz hale geldiği günümüzde “bilgi ve internet okuryazarlığı”  patologlar için vazgeçilmez öneme sahiptir. Hangi literatürün, nasıl kritik edilerek okunacağı, bilgilerin hasta tanısında nasıl kullanılacağı konusunda da donanımlı olmak gerekmektedir.
-Klinik bilgilerin düzgün ve eksiksiz aktarılması için hastane bilgi yönetim sistemlerine patologların “tedaviyi veren hekim” yetkisi ile ulaşmasının sağlanması, tanı hızını ve doğruluğunu arttıracaktır.
-Patologlar genelde raporlarını hastaların tedavisinden sorumlu olan klinisyenleri hedefleyerek yazsalar da, günümüzde kendi bilgilerini irdelemek isteyen hastalar yanı sıra raporlarını otomatik olarak kategorize etmek isteyen kayıt sistemlerini de dikkate almak gerekmektedir.
-Hastaların raporlardaki detaylarla uğraşmasını engellemek ve onları doğru yönlendirmek için CAP ve ADASP gibi organizasyonlar hastalar için rehberler hazırlamaktadırlar. Hastaların ve sigorta şirketlerinin patoloji raporlarına yaklaşımları nedeniyle ortaya çıkan sosyal sorunları bertaraf etmek için tümör isimlendirmelerinde yakın zamanda yapılan değişiklikler (tiroid ve prostat tümörlerindeki gibi) bu konunun ileride daha da önemli olacağını ve belki de hastalar için ayrı rapor kısımları düzenlememiz gerektireceğini düşündürmektedir.
-Raporların eksiksiz olması ve başka kurumlardaki hekimler tarafından da anlaşılmasını sağlamak için sinoptik (şablon) rapor kullanılması gerekmektedir. Her ne kadar kimi patologlar kendi üslupları ile tarif ve açıklama yazmak isteseler de, her satırda bir özelliğin olduğu ve gerekli tüm özelliklerin açıkça yazıldığı sinoptik raporlama hasta yönetimi için artık vazgeçilmez bir gereklilik halindedir. Raporların bilgisayar aracılığıyla formlar kullanılarak yazıldığı ve her özelliğin veritabanında ayrı olarak kaydedildiği yapılandırılmış (structured) raporların ise ideal olarak her laboratuvarda olması gerekmektedir. Yapılandırılmış rapor kullanılan sistemlerde hem kalite için izleme ve değerlendirme hızlıca ve otomatik olarak yapılabilmekte, hem de bilimsel araştırmalar için gerekli bilgilere kolayca ulaşmak mümkün olabilmektedir. Yapılandırılmış rapor kullanan sistemlerde raporun ilk onaylandığı halinin değiştirilemez bir ‘pdf’ dökümanı halinde kaydedilmesi (ve tercihan elektronik imza ile eşleştirilmesi) gerekmektedir. Aksi takdirde rapor her açıldığında veritabanından gelen verilerle yeniden oluşturulduğunda zaman içinde oluşan şekilsel değişiklikler ilk raporla farklılıklar oluşmasına neden olmaktadır. Bu durum medikolegal sorunlara neden olabilmektedir.
+Bu bilgilerin 
+- düzgün,
+- eksiksiz ve
+- anlaşılır  
+olması beklenmektedir.
+
+Literatürdeki bilgi yoğunluğunun kaldırılamaz halde olduğu ve her antikorun ilk çıktığında oldukça özgün ama çalışmalar sonunda yıllar içinde kullanılamaz hale geldiği günümüzde **"bilgi ve internet okuryazarlığı"**  patologlar için vazgeçilmez öneme sahiptir. Hangi literatürün, nasıl kritik edilerek okunacağı, bilgilerin hasta tanısında nasıl kullanılacağı konusunda da donanımlı olmak gerekmektedir.  
+
+Klinik bilgilerin düzgün ve eksiksiz aktarılması için hastane bilgi yönetim sistemlerine patologların **“tedaviyi veren hekim”** yetkisi ile ulaşmasının sağlanması, tanı hızını ve doğruluğunu arttıracaktır.  
+
+Patologlar genelde raporlarını hastaların tedavisinden sorumlu olan klinisyenleri hedefleyerek yazsalar da, günümüzde kendi bilgilerini irdelemek isteyen hastalar yanı sıra raporlarını otomatik olarak kategorize etmek isteyen kayıt sistemlerini de dikkate almak gerekmektedir.  
+
+Hastaların raporlardaki detaylarla uğraşmasını engellemek ve onları doğru yönlendirmek için **CAP** ve **ADASP** gibi organizasyonlar hastalar için rehberler hazırlamaktadırlar.
+Hastaların ve sigorta şirketlerinin patoloji raporlarına yaklaşımları nedeniyle ortaya çıkan sosyal sorunları bertaraf etmek için tümör isimlendirmelerinde yakın zamanda yapılan değişiklikler *(tiroid ve prostat tümörlerindeki gibi)* bu konunun ileride daha da önemli olacağını ve belki de hastalar için ayrı rapor kısımları düzenlememiz gerektireceğini düşündürmektedir.  
+
+Raporların eksiksiz olması ve başka kurumlardaki hekimler tarafından da anlaşılmasını sağlamak için **sinoptik (şablon) rapor** kullanılması gerekmektedir. Her ne kadar kimi patologlar kendi üslupları ile tarif ve açıklama yazmak isteseler de, her satırda bir özelliğin olduğu ve gerekli tüm özelliklerin açıkça yazıldığı sinoptik raporlama hasta yönetimi için artık vazgeçilmez bir gereklilik halindedir.  
+Raporların bilgisayar aracılığıyla formlar kullanılarak yazıldığı ve her özelliğin veritabanında ayrı olarak kaydedildiği **yapılandırılmış (structured) raporlar**ın ise ideal olarak her laboratuvarda olması gerekmektedir. Yapılandırılmış rapor kullanılan sistemlerde hem kalite için izleme ve değerlendirme hızlıca ve otomatik olarak yapılabilmekte, hem de bilimsel araştırmalar için gerekli bilgilere kolayca ulaşmak mümkün olabilmektedir. Yapılandırılmış rapor kullanan sistemlerde raporun ilk onaylandığı halinin değiştirilemez bir ‘pdf’ dökümanı halinde kaydedilmesi (ve tercihan elektronik imza ile eşleştirilmesi) gerekmektedir. Aksi takdirde rapor her açıldığında veritabanından gelen verilerle yeniden oluşturulduğunda zaman içinde oluşan şekilsel değişiklikler ilk raporla farklılıklar oluşmasına neden olmaktadır. Bu durum medikolegal sorunlara neden olabilmektedir.
 Patoloji raporlarının metin madenciliği yöntemleri kullanılarak sınıflandırılması konusunda öneriler ve çalışmalar mevcuttur. Ancak bu yöntemlerin başarılı olabilmesi için standart yazıma ve daktilo hatalarını en aza indirecek uygulamalara ihtiyaç vardır.
 Diktasyon ve sesi metne dönüştüren yazılımların makroskopik ve mikroskopik tariflerde kullanımı yaygınlaşmaktadır.
 Görüntüler
