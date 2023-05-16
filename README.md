@@ -215,26 +215,44 @@ Dijital görüntüler ile raporlamaya geçmeden önce en az 60 vakanın hem prep
 
 ### Dijital Tarayıcı Alınca Dijital Patolojiye Geçmiş Olabilir miyiz?
 
-Dijital patoloji konusunda çalışma yapan dernekler tarayıcı alımını laboratuvarda yapılacak düzenlemelerden sonra olmasını önermektedir. Eğer laboratuvar iş akışı barkod ile düzenlenmemiş, ilgili lamın barkodu ile patoloji bilgi sistemi ve hastane bilgi sisteminden gerekli bilgiler alınamayacak ise, tarayıcıdan elde edilen görüntülerin işlenmesi oldukça zor olmaktadır. Bu gruplanmış yan veriler (parsed metadata) otomatizasyonun en önemli kısmını oluşturmaktadır.
+Dijital patoloji konusunda çalışma yapan dernekler tarayıcı alımını laboratuvarda yapılacak düzenlemelerden sonra olmasını önermektedir. Eğer laboratuvar iş akışı barkod ile düzenlenmemiş, ilgili lamın barkodu ile patoloji bilgi sistemi ve hastane bilgi sisteminden gerekli bilgiler alınamayacak ise, tarayıcıdan elde edilen görüntülerin işlenmesi oldukça zor olmaktadır. Bu gruplanmış yan veriler (*parsed metadata*) otomatizasyonun en önemli kısmını oluşturmaktadır.
 
-Görüntünün nereye ve ne kadar süre ile kaydedileceği, hangi diğer lamlar ile eşleşeceği, nasıl bir ‘sanal mape’ ile patoloğa iletileceği, eğer yapay zeka algoritmaları kullanılacaksa hangi lamın işleneceği ancak bu bütünlük sağlanabilirse mümkün olacaktır.
+- Görüntünün nereye ve ne kadar süre ile kaydedileceği,
+- hangi diğer lamlar ile eşleşeceği,
+- nasıl bir ‘sanal mape’ ile patoloğa iletileceği,
+- eğer yapay zeka algoritmaları kullanılacaksa hangi lamın işleneceği
+
+ancak bu bütünlük sağlanabilirse mümkün olacaktır.
 
 Örneğin günümüzde meme biyopsileri için yapılan hormon reseptör incelemelerini patoloğa görüntü iletilmeden analiz edecek ve patoloğa ön rapor sunacak algoritmalar mevcuttur. Ancak bu algoritmanın çalışabilmesi için o lamın bir meme biyopsisine ait olduğu, o lamdaki boyamanın bir hormon reseptörüne ait olduğu ve boyama değerlendirmesi için çalışacak spesifik algoritmanın ne olduğu belli olmalıdır.
-Laboratuvardaki tüm cihazlar aynı barkod bilgisi ile çalışabilecek, ya da barkoddan kendisi ile ilgili alanı okuyabilecek şekilde düzenlenmiş olmalıdır. Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod / karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı önündeki önemli engellerden biridir.
+
+Laboratuvardaki tüm cihazlar aynı barkod bilgisi ile çalışabilecek, ya da barkoddan kendisi ile ilgili alanı okuyabilecek şekilde düzenlenmiş olmalıdır.
+
+Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod / karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı önündeki önemli engellerden biridir.
+
 Tüm yüzey taramadaki görüntüler oldukça fazla yer kaplamaktadır. Radyoloji görüntüleri ile kıyaslandığında bu fazlalık daha da çarpıcı olarak görülmektedir. Görüntülerin daha az yer kaplaması için 40x yerine 20x tarama, boş lam alanlarının taranmaması gibi çözümler kullanılmaktadır. Ancak bu durumda da fragmante dokuların taranmaması riski yanısıra, taranan her lamın tanı için yeterli olduğunun teyidi gibi ek bir iş basamağı da ortaya çıkmaktadır.
 
 Bu gibi optimizasyonlar (düzenlemeler) yapılmadıkça patoloğun iş yükünü kolaylaştırmak yerine zorlaştıracak hale gelen dijital tarama beklenen verimlilikte kullanılamayacaktır.
 
-### Dijital patoloji için tarayıcıya ihtiyacımız var mı?
+### Dijital Patoloji İçin Tarayıcıya İhtiyacımız Var Mı?
 
-Dijital patolojinin kolaylıklarından faydalanmak için mutlaka tarayıcının olmasına gerek yoktur. Araştırma, konsültasyon ve tanıya katkı sağlayacak algoritmaların kullanılması için çoğu zaman kamera bağlı mikroskop yeterli olacaktır. Hatta cep telefonlarının görüntü alması için geliştirilen okülere bağlanan ataçmanlar ile trinoküler mikroskop olmadan da görüntüler elde edilebilmektedir.
-Mikroskopta lamın hareket ettirilmesi ile çekilen görüntülerin birleştirildiği “manuel whole slide imaging” yazılımları da kullanılabilmektedir.
+Dijital patolojinin kolaylıklarından faydalanmak için mutlaka tarayıcının olmasına gerek yoktur.
+
+Araştırma, konsültasyon ve tanıya katkı sağlayacak algoritmaların kullanılması için çoğu zaman kamera bağlı mikroskop yeterli olacaktır.
+
+Hatta cep telefonlarının görüntü alması için geliştirilen okülere bağlanan ataçmanlar ile trinoküler mikroskop olmadan da görüntüler elde edilebilmektedir.
+
+Mikroskopta lamın hareket ettirilmesi ile çekilen görüntülerin birleştirildiği *“manuel whole slide imaging”* yazılımları da kullanılabilmektedir.
+
 Bir kez taranmış görüntü elde edildikten sonra bu görüntüleri gösterecek ve analiz edecek açık kaynak programlar oldukça yaygın olarak mevcut olmakla birlikte hala daha manuel tam yüzey taramanın kullanılabileceği açık kaynak programların olmaması dijital patoloji önündeki en büyük ‘finansal’ engel olarak durmaktadır.
 
 ## Dijital Patolojinin Geleceği
 
-Dijital patoloji hızla gelişen bir alan olduğundan patologların kendilerini bu gelişmelere hazırlamaları gerekmektedir. Altyapı yatırımları sırasında geliştirilebilir modüler yapıların tercih edilmesi; basit ekran paylaşımından öteye gitmeyen ve açık kaynak ile ulaşılabilecek programlar için masraf yapmadan önce yetkin görüş alınması önerilmektedir.
-Dijital patoloji görüntüleri şu an farklı firmalara ait farklı formatlar halindedir. Ancak yakın zamanda ortak bir format olan DICOM’a geçilmesi ile cihazlar arasındaki uyum da artacaktır. Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için de geliştirmeler hızlanacaktır.
+Dijital patoloji hızla gelişen bir alan olduğundan patologların kendilerini bu gelişmelere hazırlamaları gerekmektedir.
+
+Altyapı yatırımları sırasında geliştirilebilir modüler yapıların tercih edilmesi; basit ekran paylaşımından öteye gitmeyen ve açık kaynak ile ulaşılabilecek programlar için masraf yapmadan önce yetkin görüş alınması önerilmektedir.
+
+Dijital patoloji görüntüleri şu an farklı firmalara ait farklı formatlar halindedir. Ancak yakın zamanda ortak bir format olan *DICOM*’a geçilmesi ile cihazlar arasındaki uyum da artacaktır. Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için de geliştirmeler hızlanacaktır.
 
 ## Yapay Zekanın Dijital Patolojideki Yeri
 
