@@ -1,5 +1,8 @@
 # Patoloji ve Bilişim 
 
+
+[DOI 10.17605/OSF.IO/BRZUF](https://osf.io/brzuf/)
+
 ## Patolojide Bilişimin yeri nedir?
 
 Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntüler ile işleyip, literatür ve bilimsel bilgiler ışığında yorumlayan ve rapor adlı yazılı bilgiyi üreten bilgi uzmanları olarak tanımlayabiliriz. Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.  
