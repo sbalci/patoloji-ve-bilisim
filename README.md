@@ -30,7 +30,7 @@ gibi bir çok basamakta yer alan bilişim teknolojileri, dijital patolojinin yay
 Patoloji raporları ve görüntüleri için kullanılan yazılımlar (Rosai 1. chapter)’da belirtildiği gibi çoğu zaman diğer laboratuvar branşları ya da radyoloji için hazırlanmış platformlara eklemlenmiş gibidirler.
 Patolojinin işleyişi ile çoğu zaman örtüşmeyen yazılımlar, çoğu zaman bir metin işlemcisi ve faturalandırma aracı olarak kalmaktadırlar.
 
-![](./resimler/resim1.png)
+![Patoloji raporları ve görüntüleri için kullanılan yazılımlar (Rosai 1. chapter)’da belirtildiği gibi çoğu zaman diğer laboratuvar branşları ya da radyoloji için hazırlanmış platformlara eklemlenmiş gibidirler. Patolojinin işleyişi ile çoğu zaman örtüşmeyen yazılımlar, çoğu zaman bir metin işlemcisi ve faturalandırma aracı olarak kalmaktadırlar.](./resimler/resim1.png "Resim 1")
 
 ## Patolojideki Bilgi Türleri Nelerdir?
 
@@ -44,7 +44,7 @@ Her ne kadar laboratuvar branşı olarak görülse de, patoloji sadece klinikten
 
 Patolojinin ayrı bir klinik olarak tanımlanmaması, patoloğun tetkik isteyen bir hekim olarak kurgulanmamış olması nedeniyle hem rutin işleyişte hem de fatura ve performans değerlendirmelerinde sorunlar ortaya çıkmaktadır.
 
-![Resim 2: Patoloji iş akışı](./resimler/resim2.png)
+![Resim 2: Patoloji iş akışı](./resimler/resim2.png "Resim 2")
 *Resim 2: Patoloji iş akışı*
 
 ### Metin Bilgileri
@@ -113,17 +113,21 @@ Dijital patoloji dendiğinde günümüzde preparatların tüm yüzey yüksek ç�
 
 Makroskopik görüntülerinin, endoskopik görüntülerin ve mikroskopla çekilen fotoğraflar üzerinde morfometrik çalışmalar dijital patolojinin başlangıcıdır. Ancak hasta tanısı için ilk etapta mikroskop yerine dijital görüntülerin kullanımı henüz daha yeni olduğundan, bu amaçla kullanılan dijital patoloji daha çok büyük laboratuvar ve üniversite hastaneleri ile sınırlıdır.
 
-Dijital patoloji ilk etapta araştırma ve eğitim amacıyla kullanılmaya başlanmış, daha sonra konsültasyon ve frozenda yerini almıştır. Bir hastanın ilk tanısı için kullanımı, yakın zamanda pandeminin getirdiği uzaktan çalışma zorunluluğu ile hızlı onay almıştır.
+Dijital patoloji ilk etapta araştırma ve eğitim amacıyla kullanılmaya başlanmış, daha sonra konsültasyon ve frozenda yerini almıştır. Bir hastanın *ilk tanı*sı için kullanımı, yakın zamanda pandeminin getirdiği uzaktan çalışma zorunluluğu ile hızlı onay almıştır.
 
-Pratikte dijital patolojinin bizi en çok zorlayan kısmı, hazır tanısal hale gelmiş preparatların bir daha tekrardan tanı için uygun hale dönüştürülmesi ile uğraşmak zorunda kalmamızdır. Mesela radyolojinin basılı filmlerini devasa tarayıcılarla tarayıp dijital ortama aktarsaydık ve adına da ‘dijital radyoloji’ deseydik herhalde bugün yapılana benzer olurdu.
+Pratikte dijital patolojinin bizi en çok zorlayan kısmı, *hazır tanısal hale gelmiş preparatların bir daha tekrardan tanı için uygun hale dönüştürülmesi* ile uğraşmak zorunda kalmamızdır. Mesela radyolojinin basılı filmlerini devasa tarayıcılarla tarayıp dijital ortama aktarsaydık ve adına da ‘dijital radyoloji’ deseydik herhalde bugün yapılana benzer olurdu.
 
-Patoloji makroskopi resimlerinin ve preparatlarının dijital ortama aktarılması ve tanının buradan verilmesi, daha önceleri *analitik evrede kabul ettiğimiz basamakların preanalitik evreye geçmesine* neden olmuştur.
 
-![](./resimler/resim3.jpg)
+![*Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.*](./resimler/resim3.jpg "Resim 3")
 *Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.*
 
-![](./resimler/resim4.jpg)
+
+![*Ampulla yerleşimli intraampüller papiller neoplazi zemininde gelişmiş adenokarsinomun megalamda alınan örneğinin dijitalleştirilmiş hali. Birkaç lamda ancak incelenebilecek görüntünün megalam tarayıcısı ile alınan bu görüntüsü sayesinde hem tümörün yayılımı daha kolay anlaşılabiliyor, hem radyolojik korelasyon daha kolay yapılabiliyor hem de tümör biyolojisini anlamak daha da kolaylaşıyor.*](./resimler/resim4.jpg "Resim 4")
 *Ampulla yerleşimli intraampüller papiller neoplazi zemininde gelişmiş adenokarsinomun megalamda alınan örneğinin dijitalleştirilmiş hali. Birkaç lamda ancak incelenebilecek görüntünün megalam tarayıcısı ile alınan bu görüntüsü sayesinde hem tümörün yayılımı daha kolay anlaşılabiliyor, hem radyolojik korelasyon daha kolay yapılabiliyor hem de tümör biyolojisini anlamak daha da kolaylaşıyor.*
+
+
+
+Patoloji makroskopi resimlerinin ve preparatlarının dijital ortama aktarılması ve tanının buradan verilmesi, daha önceleri *analitik evrede kabul ettiğimiz basamakların preanalitik evreye geçmesine* neden olmuştur.
 
 Artık laboratuvarlar sadece preparatın tanısal hale gelmesine değil aynı zamanda dijital görüntünün de tanıya hazır hale gelmesini düşünerek planlama yapmak durumundadır.
 Bu yeniden tanısal hale getirme basamağı nedeniyle, tarayıcılar yeni bir analitik basamak halini alırken, tarayıcı öncesinde laboratuvardaki basamaklar da yeni bir tür preanalitik basamak halini almaktadır. Mesela;
@@ -131,16 +135,20 @@ Bu yeniden tanısal hale getirme basamağı nedeniyle, tarayıcılar yeni bir an
 - önceleri sadece insanın okuyabileceği etiketler yeterli olurken artık tüm laboratuvar sürecinde makinaların da okuyabileceği barkod ya da karekod kullanımı zorunlu hale gelmiştir.
 - Daha önceleri görmezden gelinebilecek küçük artefaktlar, hava kabarcıkları, parmak izleri tarama kalitesini belirli ölçüde etkilediği için **“yeni kuşak preanalitik hatalar”** olarak hayatımıza girmektedir.
 
-![](./resimler/resim5.png)
+
+![*Kirli bir lamda otomatik doku tespit algoritmasının yanılmasına bir örnek. Yeşil kutu içindeki alan doku olarak algılanmış ve taranmıştır.*](./resimler/resim5.png "Resim 5")
 *Kirli bir lamda otomatik doku tespit algoritmasının yanılmasına bir örnek. Yeşil kutu içindeki alan doku olarak algılanmış ve taranmıştır.*
 
-![](./resimler/resim6.png)
+
+
+![*Lamda parafin artığı kalması sonucu bulanık taranmış dokunun (solda), lam temizlendikten sonra tekrar tarandığındaki net görüntüsü (sağda).*](./resimler/resim6.png "Resim 6")
 *Lamda parafin artığı kalması sonucu bulanık taranmış dokunun (solda), lam temizlendikten sonra tekrar tarandığındaki net görüntüsü (sağda).*
 
-![](./resimler/resim7.png)
+
+![*Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.*](./resimler/resim7.png "Resim 7")
 *Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.*
 
-### Dijital patolojinin kullanım alanları nelerdir?
+### Dijital Patolojinin Kullanım Alanları Nelerdir?
 
 Dijital patoloji ilk başlarda araştırma ve eğitim amacıyla kullanılmaya başlanmış, daha sonra konsültasyon ve frozenda yerini almıştır. Bir hastanın ilk tanısı için mikroskop yerine dijital görüntülerin kullanılması başlangıçla tereddütle karşılanmıştır. Covid pandemisinin getirdiği uzaktan çalışma zorunluluğu dijital patolojinin tanı amaçlı kullanılmasının onaylanması için hızlandırıcı bir faktör olmuştur.
 
