@@ -117,15 +117,11 @@ Dijital patoloji ilk etapta araştırma ve eğitim amacıyla kullanılmaya başl
 
 Pratikte dijital patolojinin bizi en çok zorlayan kısmı, *hazır tanısal hale gelmiş preparatların bir daha tekrardan tanı için uygun hale dönüştürülmesi* ile uğraşmak zorunda kalmamızdır. Mesela radyolojinin basılı filmlerini devasa tarayıcılarla tarayıp dijital ortama aktarsaydık ve adına da ‘dijital radyoloji’ deseydik herhalde bugün yapılana benzer olurdu.
 
-
-![*Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.*](./resimler/resim3.jpg "Resim 3")
+![Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.](./resimler/resim3.jpg "Resim 3")
 *Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.*
 
-
-![*Ampulla yerleşimli intraampüller papiller neoplazi zemininde gelişmiş adenokarsinomun megalamda alınan örneğinin dijitalleştirilmiş hali. Birkaç lamda ancak incelenebilecek görüntünün megalam tarayıcısı ile alınan bu görüntüsü sayesinde hem tümörün yayılımı daha kolay anlaşılabiliyor, hem radyolojik korelasyon daha kolay yapılabiliyor hem de tümör biyolojisini anlamak daha da kolaylaşıyor.*](./resimler/resim4.jpg "Resim 4")
+![Ampulla yerleşimli intraampüller papiller neoplazi zemininde gelişmiş adenokarsinomun megalamda alınan örneğinin dijitalleştirilmiş hali. Birkaç lamda ancak incelenebilecek görüntünün megalam tarayıcısı ile alınan bu görüntüsü sayesinde hem tümörün yayılımı daha kolay anlaşılabiliyor, hem radyolojik korelasyon daha kolay yapılabiliyor hem de tümör biyolojisini anlamak daha da kolaylaşıyor.](./resimler/resim4.jpg "Resim 4")
 *Ampulla yerleşimli intraampüller papiller neoplazi zemininde gelişmiş adenokarsinomun megalamda alınan örneğinin dijitalleştirilmiş hali. Birkaç lamda ancak incelenebilecek görüntünün megalam tarayıcısı ile alınan bu görüntüsü sayesinde hem tümörün yayılımı daha kolay anlaşılabiliyor, hem radyolojik korelasyon daha kolay yapılabiliyor hem de tümör biyolojisini anlamak daha da kolaylaşıyor.*
-
-
 
 Patoloji makroskopi resimlerinin ve preparatlarının dijital ortama aktarılması ve tanının buradan verilmesi, daha önceleri *analitik evrede kabul ettiğimiz basamakların preanalitik evreye geçmesine* neden olmuştur.
 
@@ -135,17 +131,13 @@ Bu yeniden tanısal hale getirme basamağı nedeniyle, tarayıcılar yeni bir an
 - önceleri sadece insanın okuyabileceği etiketler yeterli olurken artık tüm laboratuvar sürecinde makinaların da okuyabileceği barkod ya da karekod kullanımı zorunlu hale gelmiştir.
 - Daha önceleri görmezden gelinebilecek küçük artefaktlar, hava kabarcıkları, parmak izleri tarama kalitesini belirli ölçüde etkilediği için **“yeni kuşak preanalitik hatalar”** olarak hayatımıza girmektedir.
 
-
-![*Kirli bir lamda otomatik doku tespit algoritmasının yanılmasına bir örnek. Yeşil kutu içindeki alan doku olarak algılanmış ve taranmıştır.*](./resimler/resim5.png "Resim 5")
+![Kirli bir lamda otomatik doku tespit algoritmasının yanılmasına bir örnek. Yeşil kutu içindeki alan doku olarak algılanmış ve taranmıştır.](./resimler/resim5.png "Resim 5")
 *Kirli bir lamda otomatik doku tespit algoritmasının yanılmasına bir örnek. Yeşil kutu içindeki alan doku olarak algılanmış ve taranmıştır.*
 
-
-
-![*Lamda parafin artığı kalması sonucu bulanık taranmış dokunun (solda), lam temizlendikten sonra tekrar tarandığındaki net görüntüsü (sağda).*](./resimler/resim6.png "Resim 6")
+![Lamda parafin artığı kalması sonucu bulanık taranmış dokunun (solda), lam temizlendikten sonra tekrar tarandığındaki net görüntüsü (sağda).](./resimler/resim6.png "Resim 6")
 *Lamda parafin artığı kalması sonucu bulanık taranmış dokunun (solda), lam temizlendikten sonra tekrar tarandığındaki net görüntüsü (sağda).*
 
-
-![*Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.*](./resimler/resim7.png "Resim 7")
+![Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.](./resimler/resim7.png "Resim 7")
 *Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.*
 
 ### Dijital Patolojinin Kullanım Alanları Nelerdir?
@@ -168,26 +160,58 @@ gibi alanlarda geliştirilmiş yazılım ve karar destek sistemleri mevcuttur.
 
 #### Eğitim
 
-Hem tıp fakültesi hem uzmanlık eğitiminde verilen mikroskop eğitimlerinde sorunlardan birisi de preparatların eskimesi ve nadir vakaların sayıca az olmasıdır. Dijital görüntüler ile hem bu sorun aşılacak, hem de interaktif ögelerin de kullanımı ile farklı eğitim teknikleri kullanılabilecektir. Üç boyutlu (3D) organ modellerinin sanal gerçeklikle incelendiği, retina takibi ile mitoz sayma yarışmalarının düzenlendiği, makroskopide merak edilen alanın mikroskopide nasıl yansıdığının hemen görüldüğü, mikroskobik kesitlerin 3 boyutlu rekonstrüksiyonu ile tümör yayılımının daha iyi anlaşıldığı eğitim teknikleri geleceğin hekimlerini, geleceğin teknolojileri için hazırlayacaktır.
-Mikroskoptan ekrana geçişte bu kuşağın yaşadığı sorunların tam tersinin ekrandan konvansiyonel mikroskopa geçecek yeni kuşağın yaşayacağını tahmin edebiliriz.
+Hem tıp fakültesi hem uzmanlık eğitiminde verilen mikroskop eğitimlerindeki sorunlardan birisi de preparatların eskimesi ve nadir vakaların sayıca az olmasıdır.
+
+Dijital görüntüler ile hem bu sorun aşılacak, hem de interaktif ögelerin de kullanımı ile farklı eğitim teknikleri kullanılabilecektir.
+
+- Üç boyutlu (3D) organ modellerinin sanal gerçeklikle incelendiği,
+- retina takibi ile mitoz sayma yarışmalarının düzenlendiği,
+- makroskopide merak edilen alanın mikroskopide nasıl yansıdığının hemen görüldüğü,
+- mikroskobik kesitlerin 3 boyutlu rekonstrüksiyonu ile tümör yayılımının daha iyi anlaşıldığı eğitim teknikleri
+
+geleceğin hekimlerini, geleceğin teknolojileri için hazırlayacaktır.
+
+Mikroskoptan ekrana geçişte şimdiki kuşağın yaşadığı sorunların tam tersinin ekrandan konvansiyonel mikroskopa geçecek yeni kuşağın yaşayacağını tahmin edebiliriz.
+
 Ülkemizde genellikle digital slaytlar kullanılarak yukarıda sözü edilen teknik sorunların düzeltildiği ve aşıldığı görülmekle beraber interaktif eğitim teknikleri entegre edilmeden kullanılması sonucu bu yöntemin getirilerinden yeterince yararlanılamadığı görülmektedir.
 
 #### Konsültasyon
 
-Konunun eksper patoloğuna ulaşmak için daha önceleri lam ya da bloğun gönderilmesi, hatta bunun için şehirlerarası ya da ülkeler arası transfer gerekmekteydi. Artık bu görüntülerin (gigabaytlarca yer tutan sanal görüntülerin bile gönderilmeden) oluşturulacak bir link üzerinden paylaşılması ile konsültasyonlar rutin pratiğin kolay basamaklarından biri olacaktır. Bu durum ileride uzaktan çalışma ile iş piyasasına da farklı yaklaşımlar getirecektir.
+Konunun eksper patoloğuna ulaşmak için daha önceleri lam ya da bloğun gönderilmesi, hatta bunun için şehirlerarası ya da ülkeler arası transfer gerekmekteydi. Artık bu görüntülerin (gigabaytlarca yer tutan sanal görüntülerin bile gönderilmeden) oluşturulacak bir link üzerinden paylaşılması ile konsültasyonlar rutin pratiğin kolay basamaklarından biri olacaktır.
+
+Bu durum ileride uzaktan çalışma ile iş piyasasına da farklı yaklaşımlar getirecektir.
 
 #### Rutin Raporlama
 
 Önceleri ilgili vakaya ait lamların tümü sıralanmış bir şekilde mapeye dizilip, klinik ve makroskopik bilginin yer aldığı kağıtla bir araya getirildiğinde laboratuvarın işi bitmiş ve vakanın patolog tarafından onaylanma süreci başlamış oluyordu. Tümüyle dijital ortama taşınan bir laboratuvarda lamları mapeye dizmeye gerek olmadığı gibi lamların herhangi bir sırayla taranması da gerekmiyor. Ayrıca kağıtlardaki bilgilerin de hepsinin dijitalleştiğini düşünürsek fiziksel bir teslimatın yapılmasına da gerek kalmıyor.
-Öte yandan tarama için geçen süre, vakanın her lamının taranıp taranmadığının kontrolü, görüntülerin tanısal yeterlilikte olup olmadığının kontrolü gibi ek otomatize ya da manuel kontrol basamakları da günlük pratiğe eklenmektedir. Tarama için geçen sürenin kısaltılmasında sürekli yükleme yapılabilen modeller daha başarılı olmaktadır.
-Dijital görüntüler kullanarak rutin raporlamaya yavaş yavaş geçilmektedir. Geçiş sürecinde yaşanabilecek sorunlar ve çözümleri için derneklerin, RCAP ve Leeds Üniversitesi'nin hazırladığı öneriler oldukça faydalıdır (Bkz. Okuma önerileri)
-Bu yeni yöntemler kendi ergonomi sorunlarını da birlikte getirmektedir. Şaryo kullanmaya ve objektif değiştirmeye alışkın patolog kas hafızası (muscle memory) klasik bilgisayar faresi ile eşleşmekten uzaktır. Bu nedenl 3D fareler ve şaryoyu taklit eden bilgisayar bileşenleri geliştirilmektedir. Nasıl bir ekran kullanılacağı ve ekranın “tıbbi ekran” kategorisinde olup olmaması gerektiği de süregiden bir tartışma konusudur (Bkz. Leeds ekran testi)
-İşaretleme alışkanlığının değişmesi (lamlara yazılan yazıların artık ekrandan yazılması, lamlardaki işaretlerin taramada artefakt oluşturması), küçük fragmanların tarama sıracında ya da patolog bakarken atlanması endişesi de güncel tartışmalardandır.
-İlk çalışılmaya başlanan, tek tip hücre grubundan oluştuğu için ve patern analizi gerektirmediği için kolay olduğu varsayılan servikal yaymalar dijital patolojide hala öncü yer tutamamaktadır. Bunun sebebi arasında Z-stack taramanın daha zor ve maliyetli olması yer almaktadır. Mikrovida ile değişik katlara bakmaya alışkın sitolog ve patolog gözü yeni sistemlerde bu kolaylığı kolayca elde edememektedir. Öte yandan HPV testlerinin daha yaygın olması maliyet etkinlik açısından servikal yaymaların dijital taranması için harcanan emeklerin önünde yer almaktadır.
-Floresan kullanılarak yapılan incelemeler (FISH, DIF) için ayrı tarama sistemleri gerekmektedir. Çift kırıcılık gerektiren değerlendirmeler (kongo kırmızısı, yabancı cisim) içinse hala klasik mikroskopa ihtiyaç duyulmaktadır.
+
+Öte yandan
+
+- tarama için geçen süre,
+- vakanın her lamının taranıp taranmadığının kontrolü,
+- görüntülerin tanısal yeterlilikte olup olmadığının kontrolü gibi
+
+ek otomatize ya da manuel kontrol basamakları da günlük pratiğe eklenmektedir.
+
+Tarama için geçen sürenin kısaltılmasında sürekli yükleme yapılabilen modeller daha başarılı olmaktadır.
+
+Dijital görüntüler kullanarak rutin raporlamaya yavaş yavaş geçilmektedir. Geçiş sürecinde yaşanabilecek sorunlar ve çözümleri için derneklerin, **RCAP** ve **Leeds** Üniversitesi'nin hazırladığı öneriler oldukça faydalıdır (Bkz. Okuma önerileri)
+
+Bu yeni yöntemler kendi **ergonomi** sorunlarını da birlikte getirmektedir. Şaryo kullanmaya ve objektif değiştirmeye alışkın patolog *kas hafızası (muscle memory)* klasik bilgisayar faresi ile eşleşmekten uzaktır. Bu nedenle 3D fareler ve şaryoyu taklit eden bilgisayar bileşenleri geliştirilmektedir.
+
+Nasıl bir ekran kullanılacağı ve ekranın *“tıbbi ekran”* kategorisinde olup olmaması gerektiği de süregiden bir tartışma konusudur (Bkz. Leeds ekran testi)
+
+*İşaretleme* alışkanlığının değişmesi (lamlara yazılan yazıların artık ekrandan yazılması, lamlardaki işaretlerin taramada *artefakt* oluşturması), *küçük fragmanlar*ın tarama sırasında ya da patolog bakarken atlanması endişesi de güncel tartışmalardandır.
+
+İlk çalışılmaya başlanan, tek tip hücre grubundan oluştuğu için ve patern analizi gerektirmediği için kolay olduğu varsayılan servikal yaymalar dijital patolojide hala öncü yer tutamamaktadır. Bunun sebebi arasında *Z-stack* taramanın daha zor ve maliyetli olması yer almaktadır. *Mikrovida* ile değişik katlara bakmaya alışkın sitolog ve patolog gözü yeni sistemlerde bu kolaylığı kolayca elde edememektedir. Öte yandan HPV testlerinin daha yaygın olması maliyet etkinlik açısından servikal yaymaların dijital taranması için harcanan emeklerin önünde yer almaktadır.
+
+Floresan kullanılarak yapılan incelemeler (FISH, DIF) için ayrı tarama sistemleri gerekmektedir.
+
+Çift kırıcılık gerektiren değerlendirmeler (kongo kırmızısı, yabancı cisim) içinse hala klasik mikroskopa ihtiyaç duyulmaktadır.
+
 Eski vakaların ya da konsültasyon için farklı laboratuvarda hazırlanıp gönderilen lamların taranması ve arşivlenmesi hem zaman hem de maliyet açısından değerlendirilmelidir. Özellikle soluk ve kapama sorunu olan vakaların taranması sırasında oluşacak artefaktlar göz önünde bulundurulmalıdır.
 
-Dijital görüntüler ile raporlamaya geçmeden önce en az 60 vakanın hem preparat hem de dijital görüntü ile ayrı ayrı raporlanması ve aralarındaki uyumluluğun test edilip dökümante edilmesini içeren kişisel validasyon çalışmalarına ihtiyaç vardır. Bu rakamın her boya, her örnek türü ve her tanıya göre hedeflenmesi istenmekle birlikte, kesin bir sayı olmayıp ilgili biyopsi türünde patoloğun kendini rahat hissedecek ve tanı arayüzü ile aşinalık kazanacak kadar devam etmesi önerilmektedir.
+Dijital görüntüler ile raporlamaya geçmeden önce en az 60 vakanın hem preparat hem de dijital görüntü ile ayrı ayrı raporlanması ve aralarındaki uyumluluğun test edilip dökümante edilmesini içeren *kişisel validasyon çalışmaları*na ihtiyaç vardır. Bu rakamın her boya, her örnek türü ve her tanıya göre hedeflenmesi istenmekle birlikte, kesin bir sayı olmayıp ilgili biyopsi türünde patoloğun kendini rahat hissedecek ve tanı arayüzü ile aşinalık kazanacak kadar devam etmesi önerilmektedir.
 
 ### Dijital Tarayıcı Alınca Dijital Patolojiye Geçmiş Olabilir miyiz?
 
