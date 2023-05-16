@@ -256,28 +256,46 @@ Dijital patoloji görüntüleri şu an farklı firmalara ait farklı formatlar h
 
 ## Yapay Zekanın Dijital Patolojideki Yeri
 
-Yapay zekanın görüntüler üzerindeki tecrübesinin patolojiye aktarılması ile bilimsel çalışmalarda sık görmeye başladığımız yapay zeka (makina öğrenmesi, derin öğrenme) kullanımı giderek günlük pratiğe de uygulanabilecek özellikler kazanmaktadır. Yapay zeka ile ilgili çalışmalar literatürde hesaplamalı patoloji (computational pathology), matematiksel patoloji olarak da geçmektedir.
-Prostat iğne biyopsilerinin ve meme biyopsilerinin de yapay zeka ile ön incelemeden geçirilmesi ve şüpheli alanların işaretlenmesi yakın zamanda rutin kullanım için onaylanmıştır.
+Yapay zekanın görüntüler üzerindeki tecrübesinin patolojiye aktarılması ile bilimsel çalışmalarda sık görmeye başladığımız yapay zeka (makina öğrenmesi, derin öğrenme) kullanımı giderek günlük pratiğe de uygulanabilecek özellikler kazanmaktadır. Yapay zeka ile ilgili çalışmalar literatürde hesaplamalı/sayısal patoloji (computational pathology), matematiksel patoloji olarak da geçmektedir.
+
+Prostat iğne biyopsilerinin ve meme biyopsilerinin yapay zeka ile ön incelemeden geçirilmesi ve şüpheli alanların işaretlenmesi yakın zamanda rutin kullanım için onaylanmıştır.
+
 Daha önce tanı almış onbinlerce olgunun görüntüleri ve tanıları yapay zeka (artificial intelligence) ve makina öğrenmesi (machine learning) algoritmaları ile işlenmektedir. Bu şekilde ‘öğrenen’ algoritma yeni gelen olgunun tanısında ya da özelliklerinin tespitinde kullanılmaktadır. Bu konuda *AFIP* ve *MSKCC* arşivlerinden elde edilen görüntülerle ilgili çalışmalar yoğun olarak devam etmektedir.
-Dijital patolojiye ve genel olarak yapay zekaya yöneltilen en büyük eleştiri algoritmaların genelde ‘kapalı kutu’ (black box) şeklinde olmasıdır. Şüpheli bir alanın tespit edildiğinde bu alanın neden şüpheli olduğunu bu algoritmalar açıklayamamaktadır. Ancak bu durum insan beyni için de geçerlidir (araç kullanırken, ya da yemek yerken yaptığımız her hareketi açıklayamayışımız gibi). Eksiklik gibi görünen bu durum aslında yeni tanı yöntemleri geliştirilmesine olanak tanımakta ve patologların kendilerini de geliştirmelerine katkı sağlamaktadır. Bu durumu Go ve satranç oyuncularının kendilerini yapay zeka ile geliştirmelerine benzetebiliriz. Benzer şekilde yapay zekanın yaptığı hatalar patologlar tarafından tespit edilmekte (kanama pigmenti ile immünohistokimyasal incelemelerin karıştırılması gibi) ve algoritmalar güçlendirilmektedir.
-Hastanın hayatına direk etki edecek sonuçları olacağından yapay zekanın açıklanabilir (explainable AI) olması yönünde çalışmalar devam etmektedir. Yapay zeka algoritmalarının hedeflenenden farklı değişkenleri (morfolojik bulgu yerine hastanın geldiği klinik gibi veriler) dikkate alabildiği ve hatalı sonuçlar üretebildiği bilindiğinden, bu süreçte kritik edilmekte ve geliştirmeler bu yönde devam etmektedir.
 
-Yapay zeka dijital patolojinin kendi içindeki kalite sorunlarını çözebildiği gibi (renk ve ışık optimizasyonları), laboratuvarın kalite kontrol basamağında da yer alacaktır. Boya kalitesinin patoloğa iletilmeden test edilmesi, olası bulaşların önceden tespit edilmesi gibi uygulamalar rutin iş akışına eklenebilecek hale gelmiştir.
+Dijital patolojiye ve genel olarak yapay zekaya yöneltilen en büyük eleştiri, algoritmaların genelde *‘kapalı kutu’ (black box)* şeklinde olmasıdır. Şüpheli bir alanın tespit edildiğinde bu alanın neden şüpheli olduğunu bu algoritmalar açıklayamamaktadır. Ancak bu durum insan beyni için de geçerlidir (araç kullanırken, ya da yemek yerken yaptığımız her hareketi açıklayamayışımız gibi). Eksiklik gibi görünen bu durum aslında yeni tanı yöntemleri geliştirilmesine olanak tanımakta ve patologların kendilerini de geliştirmelerine katkı sağlamaktadır. Bu durumu Go ve satranç oyuncularının kendilerini yapay zeka ile geliştirmelerine benzetebiliriz. Benzer şekilde yapay zekanın yaptığı hatalar patologlar tarafından tespit edilmekte (kanama pigmenti ile immünohistokimyasal incelemelerin karıştırılması gibi) ve algoritmalar güçlendirilmektedir.
 
-Hemen her yıl tekrarlanan metastatik lenf nodlarını tespit edecek yarışmalarda (Grand Challenge) müthiş bilgisayar gücü ile Google gibi yazılım firmaları önde yer almaktadır. Ancak bu sonuçların laboratuvarlarda rutinde kullanabilmesi için güçlü bilgisayar yapısına ve özel ekran kartlarına (GPU altyapısına) ihtiyaç duyulmaktadır. Maliyeti yüksek olan ve gelişen teknoloji ile sürekli güncellenmesi gereken bu altyapının yerine patoloji yapay zeka firmaları bulut tabanlı çözümler de önermektedir. Buluta yüklenecek görüntülerin analiz edilmesi ve sonuçların tekrar geri gönderilmesini sağlayan bu çözümlerde de yüksek internet bağlantı hızları yanı sıra hasta verisinin farklı ülkelerdeki bulut sistemlerine yüklenmesi konusunda çekinceler bulunmaktadır.
-Literatürde yer alan ölçüm temelli çalışmalar (yağ oranı, tümör boyutu, pozitif hücre oranı gibi) genelde semikantitativ yöntemlere dayanmaktadır. Bu nedenle bilgisayar destekli yeni tanıların fazla doğru (hypercorrect) olma ihtimalinin, gereksiz erken tanılara neden olabileceği düşünülmektedir. Radyolojideki gelişmeler sonrası artan insidentalomalara benzer şekilde ileride patolojideki erken lezyonların tanımı da değişecektir. Bu nedenle klinik faydası olacak eşik değerin seçilmesi ve algortimaların bunlara göre yeniden optimizasyonu gerekecektir.
+Hastanın hayatına direk etki edecek sonuçları olacağından yapay zekanın *açıklanabilir (explainable AI)* olması yönünde çalışmalar devam etmektedir. Yapay zeka algoritmalarının hedeflenenden farklı değişkenleri (morfolojik bulgu yerine hastanın geldiği klinik gibi veriler) dikkate alabildiği ve hatalı sonuçlar üretebildiği bilindiğinden, bu süreçte kritik edilmekte ve geliştirmeler bu yönde devam etmektedir.
+
+Yapay zeka, dijital patolojinin kendi içindeki kalite sorunlarını çözebildiği gibi (renk ve ışık optimizasyonları), laboratuvarın kalite kontrol basamağında da yer alacaktır. Boya kalitesinin patoloğa iletilmeden test edilmesi, olası bulaşların önceden tespit edilmesi gibi uygulamalar rutin iş akışına eklenebilecek hale gelmiştir.
+
+Hemen her yıl tekrarlanan metastatik lenf nodlarını tespit edecek yarışmalarda *(Grand Challenge)* müthiş bilgisayar gücü ile Google gibi yazılım firmaları önde yer almaktadır. Ancak bu sonuçların laboratuvarlarda rutinde kullanabilmesi için güçlü bilgisayar yapısına ve özel ekran kartlarına (GPU altyapısına) ihtiyaç duyulmaktadır. Maliyeti yüksek olan ve gelişen teknoloji ile sürekli güncellenmesi gereken bu altyapının yerine patoloji yapay zeka firmaları *bulut tabanlı* çözümler de önermektedir. Buluta yüklenecek görüntülerin analiz edilmesi ve sonuçların tekrar geri gönderilmesini sağlayan bu çözümlerde de yüksek internet bağlantı hızları yanı sıra hasta verisinin farklı ülkelerdeki bulut sistemlerine yüklenmesi konusunda çekinceler bulunmaktadır.
+
+Literatürde yer alan ölçüm temelli çalışmalar (yağ oranı, tümör boyutu, pozitif hücre oranı gibi) genelde semikantitativ yöntemlere dayanmaktadır. Bu nedenle bilgisayar destekli yeni tanıların *fazla doğru (hypercorrect)* olma ihtimalinin, gereksiz erken tanılara neden olabileceği düşünülmektedir. Radyolojideki gelişmeler sonrası artan insidentalomalara benzer şekilde ileride patolojideki *erken lezyonların tanımı* da değişecektir. Bu nedenle klinik faydası olacak eşik değerin seçilmesi ve algortimaların bunlara göre yeniden optimizasyonu gerekecektir.
+
 Yapay zeka ile ilgili çalışmalarda çarpıcı konular ele alınsa da rutin pratiğe etkisi olacak emek yoğun işlemlerde kullanımı hala daha kısıtlıdır. Morfolojiden sağkalımın ya da genetik özelliklerin tahmin edildiği çalışmalar sansasyonel olarak sunulmakla birlikte, rutin (tabiri caizse amele) işlerde kullanımı daha geri planda kalmaktadır.
+
 Morfolojiden genetiğin tahmin edilebileceği, sadece morfoloji ile sağkalım hakkında çıkarımlar yapılabileceği ve bu bilgilerin insanın farkedemeyeceği özelliklere dayandığını iddia eden çok sayıda çalışma devam etmektedir.
+
 Öte yandan bu gibi reklamı yapılamayacak ve satış için önemli olmayacak ama hasta sağlığı için çok önemli geri plan algoritmaları da mevcuttur. Mesela her taranan görüntünün rutin olarak kalite kontrolden geçirilip ona göre patoloğun göreceği ekrana aktarılması ya da o günkü tüm vakaları birbiri ile kıyaslayarak olası doku bulaşlarını tespit edip önceden uyarı verilmesi gibi hayati öneme sahip özellikler genelde ön plana çıkamamaktadır.
-Farklı laboratuvarlardaki verilerden geliştirilen algoritmaların diğer laboratuvarlardaki kesit ve boya kalitesi ile uyumlu olduğunun gösterilmesi gereklidir. Yapay zeka ile ilgili beklentilerin realist olması, algoritmaların ise tekrarlanabilir (kendi içinde ve dışarıyla tutarlı), teknik olarak uygulanabilir, klinik pratiğe aktarılabilir ve yeni bilgiler ışığında güncellenebilir olması gerekmektedir.
-Gelecekte her mikroskopa bir kameranın olduğu, masabaşında hemen ulaşılabilecek tarama cihazlarının olduğu çalışma ortamı yanısıra, tamamen mikroskopsuz patoloji iş istasyonları da olacaktır.
+
+Farklı laboratuvarlardaki verilerden geliştirilen algoritmaların diğer laboratuvarlardaki kesit ve boya kalitesi ile uyumlu olduğunun gösterilmesi gereklidir.
+
+Yapay zeka ile ilgili beklentilerin realist olması, algoritmaların ise
+
+- tekrarlanabilir (kendi içinde ve dışarıyla tutarlı),
+- teknik olarak uygulanabilir,
+- klinik pratiğe aktarılabilir ve
+- yeni bilgiler ışığında güncellenebilir olması gerekmektedir.
+
+Gelecekte her mikroskopta bir kameranın olduğu, masabaşında hemen ulaşılabilecek tarama cihazlarının olduğu çalışma ortamı yanısıra, tamamen mikroskopsuz patoloji iş istasyonları da olacaktır.
+
 Algoritma destekli patoloji pratiğinde ‘Bu vakayı Alp Hoca’ya danışalım’ yerine ‘Bu vakayı AlpApp v25’e yükleyelim’ gibi cümleler yer alacağı gibi, ihtiyaca göre uygulama indirilen / geliştirilen PathAppStore’ları da hayatımızdaki yeniliklerden olacaktır.
 
 Tüm bu gelişmeler ışığında gelecekte, bilişimin, metin-görüntü işleme ve yapay zekanın patoloji bölümleri içinde bir alt grup olarak yerleşeceğini ve patoloji laboratuvarlarında bilişim sektöründen de çalışanlar olacağı tahmin edilmektedir.
 
-### İlginç ve örnek çalışmalar
+## İlginç ve örnek çalışmalar
 
-#### QuPath
+### QuPath
 
 “QuPath” açık kaynak kodlu ve ücretsiz biyomedikal görüntü izleme ve inceleme programları arasında patoloji için en çok uygulama olanağı olan programlardandır. Programın yazarı ve geliştiricisi Dr. Peter Bankhead görüntü analizi için doktora yaptığı sırada elindeki olanakların yetersizliğini farkederek bu yazılımı oluşturmaya başlamış ve geliştirmeye devam etmektedir.
 
@@ -286,19 +304,19 @@ Kolay bir arayüze sahip bu programda patologlar günlük pratikte metrik ölç�
 ![](./resimler/resim8.png)
 *QuPath ile tümördeki müsin oranını kolayca tespit edebilmek mümkündür.*
 
-#### HistoQC
+### HistoQC
 
-“HistoQC” açık kaynak kodlu bir diğer program olan HistoQC ile taranan lamın ne kadar kaliteli olduğu, üzerindeki artefaktalrın ne kadar yer kapladığı, araştırma amaçlı yeterli olup olmadığı tespit edilebilmektedir. Ayrıca rutin HE boya kalitesi de bu program ile takip edilebilmektedir.
+Açık kaynak kodlu bir diğer program olan HistoQC ile taranan lamın ne kadar kaliteli olduğu, üzerindeki artefaktalrın ne kadar yer kapladığı, araştırma amaçlı yeterli olup olmadığı tespit edilebilmektedir. Ayrıca rutin HE boya kalitesi de bu program ile takip edilebilmektedir.
 
-#### Octopi
+### Octopi
 
-“Octopi” Stanford üniveristesinden Prakash Laboratuvarı’nın geliştirdiği Octopi ucuz maliyetli (250 dolar) bir dijital tarama cihazıdır. Bu tarama cihazı periferik kan yaymalarında malaria tespiti için optimize edilmiştir. Malaria’nın otofloresan özelliği sayesinde hızlıca tarama yapan ve tanısal eritrositleri bulan bu cihaz hem maliyetinin düşük olması hem de dünya çağında önemli bir hastalığın taranmasına katkıda bulunması nedeniyle önemlidir.
+Stanford üniveristesinden Prakash Laboratuvarı’nın geliştirdiği Octopi ucuz maliyetli (250 dolar) bir dijital tarama cihazıdır. Bu tarama cihazı periferik kan yaymalarında malaria tespiti için optimize edilmiştir. Malaria’nın otofloresan özelliği sayesinde hızlıca tarama yapan ve tanısal eritrositleri bulan bu cihaz hem maliyetinin düşük olması hem de dünya çağında önemli bir hastalığın taranmasına katkıda bulunması nedeniyle önemlidir.
 
 Bu çalışma hedefe yönelik olarak geliştirilecek dijital patoloji cihaz ve yöntemlerinin ucuz ve etkin olabileceğinin en önemli örneklerindendir.
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
-## Okuma önerileri:
+# Okuma önerileri:
 
 * European Society for Digital and Integrative Pathology [https://digitalpathologysociety.org/](https://digitalpathologysociety.org/)
 * Digital Pathology Association [https://digitalpathologyassociation.org/](https://digitalpathologyassociation.org/)
@@ -316,17 +334,17 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 * Manual Whole Slide Imaging [https://www.microvisioneer.com/](https://www.microvisioneer.com/)
 * PathoZoom Scan [https://www.smartinmedia.com/pathozoom-scan/](https://www.smartinmedia.com/pathozoom-scan/)
 * Pallua JD, Brunner A, Zelger B, Schirmer M, Haybaeck J. The future of pathology is digital Pathol Res Pract. 2020 Sep;216(9):153040. doi: 10.1016/j.prp.2020.153040. Epub 2020 Jun 20. PMID: 32825928.
-* Petascale Computational Pathology - Prof Nasir Rajpoot at HMS-BWH Pathology Grand Rounds 5 Oct 2020
-* Advice from one of the world's largest digital pathology implementations
+* Petascale Computational Pathology - Prof Nasir Rajpoot at HMS-BWH Pathology Grand Rounds 5 Oct 2020 [https://www.youtube.com/watch?v=nVHRNn-nqMg](https://www.youtube.com/watch?v=nVHRNn-nqMg)
+* Advice from one of the world's largest digital pathology implementations [https://medical.sectra.com/case/advice-from-one-of-the-worlds-largest-digital-pathology-implementations/](https://medical.sectra.com/case/advice-from-one-of-the-worlds-largest-digital-pathology-implementations/)
 * Octopi: Octopi: Open configurable high-throughput imaging platform for infectious disease diagnosis in the field Hongquan Li, Hazel Soto-Montoya, Maxime Voisin, Lucas Fuentes Valenzuela, Manu Prakash bioRxiv 684423; doi: [https://doi.org/10.1101/684423](https://doi.org/10.1101/684423)
 * Octopi’nin tanıtımı: [https://twitter.com/prakashlab/status/1144453714637230083](https://twitter.com/prakashlab/status/1144453714637230083)
 * Lesson from the COVID-19 pandemic: pathologists need to build their confidence on working in a digital microscopy environment. Virchows Arch 479, 227–229 (2021). [https://doi.org/10.1007/s00428-021-03123-4](https://doi.org/10.1007/s00428-021-03123-4)
 * Validating Whole Slide Imaging for Diagnostic Purposes in Pathology [https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/validating-whole-slide-imaging-for-diagnostic-purposes-in-pathology](https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/validating-whole-slide-imaging-for-diagnostic-purposes-in-pathology)
-* Validating Whole Slide Imaging Systems for Diagnostic Purposes in Pathology: Guideline Update From the College of American Pathologists in Collaboration With the American Society for Clinical Pathology and the Association for Pathology Informatics | Archives of Pathology & Laboratory Medicine Andrew J Evans, Richard W. Brown, Marilyn M. Bui, Elizabeth A. Chlipala, Christina Lacchetti, Danny A. Milner, Liron Pantanowitz, Anil V. Parwani, Kearin Reid, Michael W. Riben, Victor E. Reuter, Lisa Stephens, Rachel L. Stewart, Nicole E. Thomas; Validating Whole Slide Imaging Systems for Diagnostic Purposes in Pathology: Guideline Update From the College of American Pathologists in Collaboration With the American Society for Clinical Pathology and the Association for Pathology Informatics. Arch Pathol Lab Med 1 April 2022; 146 (4): 440–450. doi: [https://doi.org/10.5858/arpa.2020-0723-CP](https://doi.org/10.5858/arpa.2020-0723-CP)
+* Validating Whole Slide Imaging Systems for Diagnostic Purposes in Pathology: Guideline Update From the College of American Pathologists in Collaboration With the American Society for Clinical Pathology and the Association for Pathology Informatics. Arch Pathol Lab Med 1 April 2022; 146 (4): 440–450. doi: [https://doi.org/10.5858/arpa.2020-0723-CP](https://doi.org/10.5858/arpa.2020-0723-CP)
 * Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis [https://www.youtube.com/watch?v=7pRmonus9iM](https://www.youtube.com/watch?v=7pRmonus9iM)
 * Atallah, N.M., Toss, M.S., Verrill, C. et al. Potential quality pitfalls of digitalized whole slide image of breast pathology in routine practice. Mod Pathol (2021). [https://doi.org/10.1038/s41379-021-01000-8](https://doi.org/10.1038/s41379-021-01000-8)
 
-### Açık kaynak kodlu ya da ücretsiz dijital patoloji programları:
+## Açık kaynak kodlu ya da ücretsiz dijital patoloji programları:
 
 * QuickAnnotator [https://github.com/choosehappy/QuickAnnotator](https://github.com/choosehappy/QuickAnnotator)
 * HistoQC [https://github.com/choosehappy/HistoQC](https://github.com/choosehappy/HistoQC)
