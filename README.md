@@ -6,6 +6,8 @@
 
 [DOI 10.17605/OSF.IO/BRZUF](https://osf.io/brzuf/)
 
+> Bu yazı *Prof. Dr. Alp Usubütün* editörlüğünde hazırlanan *"Sağlık Bilimleri İçin Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu 2. Baskı - Ekim 2022 Ankara Nobel Tıp Kitabevleri ISBN: 978-625-7564-70-0"* adlı kitaptaki *"8. Bölüm: Patolojide Yeni Yöntemler ve Gelecek"* için hazırlanmıştır. Ancak bu alanın çok hızlı ilerlemesi nedeniyle bu metni güncel tutmak (ve bir sonraki baskı için gerekirse hazır bulunmak için) metin içeriği burada güncellenecektir. **Doç. Dr. Serdar Balcı**
+
 ## Patolojide Bilişimin yeri nedir?
 
 Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntüler ile işleyip, literatür ve bilimsel bilgiler ışığında yorumlayan ve rapor adlı yazılı bilgiyi üreten bilgi uzmanları olarak tanımlayabiliriz. Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.
