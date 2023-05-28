@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Patoloji ve Bilişim {#patoloji-ve-bilisim}
 
 [![DOI](https://zenodo.org/badge/594820002.svg)](https://zenodo.org/badge/latestdoi/594820002)
@@ -114,7 +118,7 @@ Artık günümüzde;
 Patolojinin gelecegindeki yeni teknikler arasında
 
 -   üç boyutlu görüntüleme,
--   Raman spektroskopisi ,
+-   Raman spektroskopisi,
 -   FTIR (infrared spectroskop),
 -   sanal HE boyama,
 -   ve konfokal mikroskopi gibi tekniklerin yer alması beklenmektedir.
