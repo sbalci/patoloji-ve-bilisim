@@ -1,17 +1,5 @@
 ---
-title: "Patoloji ve Bilişim"
-author:
-  - first_name: "Serdar"
-    last_name: "Balci"
-    url: https://github.com/sbalci
-    affiliation: serdarbalci.com
-    affiliation_url: https://www.serdarbalci.com
-    orcid_id: 0000-0002-7852-3851
 bibliography: references.bib
-output: 
-  html_document: 
-    toc: yes
-    keep_md: yes
 ---
 
 # Patoloji ve Bilişim {#sec-patoloji-ve-bilisim}
