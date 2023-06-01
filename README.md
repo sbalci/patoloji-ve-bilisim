@@ -1,8 +1,20 @@
 ---
+title: "Patoloji ve Bilişim"
+author:
+  - first_name: "Serdar"
+    last_name: "Balci"
+    url: https://github.com/sbalci
+    affiliation: serdarbalci.com
+    affiliation_url: https://www.serdarbalci.com
+    orcid_id: 0000-0002-7852-3851
 bibliography: references.bib
+output: 
+  html_document: 
+    toc: yes
+    keep_md: yes
 ---
 
-# Patoloji ve Bilişim {#patoloji-ve-bilisim}
+# Patoloji ve Bilişim {#sec-patoloji-ve-bilisim}
 
 [![DOI](https://zenodo.org/badge/594820002.svg)](https://zenodo.org/badge/latestdoi/594820002)
 
@@ -14,7 +26,7 @@ bibliography: references.bib
 > Ancak bu alanın çok hızlı ilerlemesi nedeniyle bu metni güncel tutmak (ve bir sonraki baskı için gerekirse hazır bulunmak için) metin içeriği burada güncellenecektir.
 > **Doç. Dr. Serdar Balcı**
 
-## Patolojide Bilişimin yeri nedir? {#patolojide-bilisimin-yeri-nedir}
+## Patolojide Bilişimin yeri nedir? {#sec-patolojide-bilisimin-yeri-nedir}
 
 Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntüler ile işleyip, literatür ve bilimsel bilgiler ışığında yorumlayan ve rapor adlı yazılı bilgiyi üreten bilgi uzmanları olarak tanımlayabiliriz.
 Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.
@@ -41,11 +53,11 @@ Patolojinin işleyişi ile çoğu zaman örtüşmeyen yazılımlar, çoğu zaman
 
 ![Patoloji raporları ve görüntüleri için kullanılan yazılımlar (Rosai 1. chapter)'da belirtildiği gibi çoğu zaman diğer laboratuvar branşları ya da radyoloji için hazırlanmış platformlara eklemlenmiş gibidirler. Patolojinin işleyişi ile çoğu zaman örtüşmeyen yazılımlar, çoğu zaman bir metin işlemcisi ve faturalandırma aracı olarak kalmaktadırlar.](./resimler/resim1.png "Resim 1")
 
-## Patolojideki Bilgi Türleri Nelerdir? {#patolojideki-bilgi-turleri-nelerdir}
+## Patolojideki Bilgi Türleri Nelerdir? {#sec-patolojideki-bilgi-turleri-nelerdir}
 
 Patolojide bilgi türleri temel olarak *laboratuvar iş akışı*, *metin* ve *görüntülerden* oluşmaktadır.
 
-### Laboratuvar İş Akışı {#laboratuvar-is-akisi}
+### Laboratuvar İş Akışı {#sec-laboratuvar-is-akisi}
 
 Bir laboratuvar branşı olarak patolojideki iş akışı çoğu zaman hastane yöneticilerinin ve hekimlerin de bilmediği karmaşık basamaklardan oluşmaktadır.
 Bu basamakların her biri kendine has kalite kontrol ögeleri ve veriler içermektedir.
@@ -56,7 +68,7 @@ Patolojinin ayrı bir klinik olarak tanımlanmaması, patoloğun tetkik isteyen 
 
 ![Resim 2: Patoloji iş akışı](./resimler/resim2.png "Resim 2") *Resim 2: Patoloji iş akışı*
 
-### Metin Bilgileri {#metin-bilgileri}
+### Metin Bilgileri {#sec-metin-bilgileri}
 
 Patolojideki metin bilgilerini:
 
@@ -83,7 +95,7 @@ Hastaların ve sigorta şirketlerinin patoloji raporlarına yaklaşımları nede
 
 Raporların eksiksiz olması ve başka kurumlardaki hekimler tarafından da anlaşılmasını sağlamak için **sinoptik (şablon) rapor** kullanılması gerekmektedir.
 
-Her ne kadar kimi patologlar kendi üslupları ile tarif ve açıklama yazmak isteseler de, *her satırda bir özelliğin olduğu* ve *gerekli tüm özelliklerin açıkça yazıldığı* **sinoptik raporlama** hasta yönetimi için artık vazgeçilmez bir gereklilik halindedir.
+Her ne kadar kimi patologlar kendi üslupları ile tarif ve açıklama yazmak isteseler de, *her satırda bir özelliğin olduğu* ve *gerekli tüm özelliklerin başlıklarının ve tanılarının açıkça yazıldığı* **sinoptik raporlama** hasta yönetimi için artık vazgeçilmez bir gereklilik halindedir.
 Raporların bilgisayar aracılığıyla formlar kullanılarak yazıldığı ve her özelliğin veritabanında ayrı olarak kaydedildiği **yapılandırılmış (structured) raporlar**ın ise ideal olarak her laboratuvarda olması gerekmektedir.
 
 Yapılandırılmış rapor kullanılan sistemlerde hem kalite için izleme ve değerlendirme hızlıca ve otomatik olarak yapılabilmekte, hem de bilimsel araştırmalar için gerekli bilgilere kolayca ulaşmak mümkün olabilmektedir.
@@ -96,7 +108,7 @@ Ancak bu yöntemlerin başarılı olabilmesi için standart yazıma ve daktilo h
 
 Diktasyon ve sesi metne dönüştüren yazılımların makroskopik ve mikroskopik tariflerde kullanımı yaygınlaşmaktadır.
 
-### Görüntüler {#goruntuler}
+### Görüntüler {#sec-goruntuler}
 
 Morfolojik analize dayanan anatomik patolojideki bilgilerden biri de görüntülerdir.
 Makroskopik ve mikroskopik görüntüler mevcuttur.
@@ -118,12 +130,12 @@ Artık günümüzde;
 Patolojinin gelecegindeki yeni teknikler arasında
 
 -   üç boyutlu görüntüleme,
--   Raman spektroskopisi,
+-   Raman spektroskopisi [@Movahed-Ezazi2023],
 -   FTIR (infrared spectroskop),
 -   sanal HE boyama,
 -   ve konfokal mikroskopi gibi tekniklerin yer alması beklenmektedir.
 
-## Dijital Patoloji Nedir? {#dijital-patoloji-nedir}
+## Dijital Patoloji Nedir? {#sec-dijital-patoloji-nedir}
 
 Dijital patoloji dendiğinde günümüzde preparatların tüm yüzey yüksek çözünürlükte taranarak bilgisayar ortamına aktarılması ve bu görüntülerin iletilme ve işlenme süreci akla gelmekte ise de; tüm laboratuvar işleyişinin bilgisayarla takip edilmesi ve gerektiğinde otomatize edilmesi daha kapsayıcı bir tanımlama olacaktır.
 
@@ -155,7 +167,7 @@ Mesela;
 
 ![Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.](./resimler/resim7.png "Resim 7") *Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.*
 
-### Dijital Patolojinin Kullanım Alanları Nelerdir? {#dijital-patolojinin-kullanim-alanlari-nelerdir}
+### Dijital Patolojinin Kullanım Alanları Nelerdir? {#sec-dijital-patolojinin-kullanim-alanlari-nelerdir}
 
 Dijital patoloji ilk başlarda araştırma ve eğitim amacıyla kullanılmaya başlanmış, daha sonra konsültasyon ve frozenda yerini almıştır.
 Bir hastanın ilk tanısı için mikroskop yerine dijital görüntülerin kullanılması başlangıçla tereddütle karşılanmıştır.
@@ -163,7 +175,7 @@ Covid pandemisinin getirdiği uzaktan çalışma zorunluluğu dijital patolojini
 
 *Rosai*'nin kongrelerde kahve bardaklarından dürbünler yaptığı ve katılımcılardan ekrandaki sunuma önce bu dürbünle sonra da bu dürbünsüz bakmalarını istediği ve bu şekilde dijital patolojinin geleceğini öngördüğü söylenir.
 
-#### Tanı {#tani}
+#### Tanı {#sec-tani}
 
 Dijital patoloji, hastalıkların tanısına yardımcı özelliklerin tespit edilmesinde ek bir araç olarak yaygın olarak kullanılmaktadır.
 
@@ -175,7 +187,7 @@ Dijital patoloji, hastalıkların tanısına yardımcı özelliklerin tespit edi
 
 gibi alanlarda geliştirilmiş yazılım ve karar destek sistemleri mevcuttur.
 
-#### Eğitim {#egitim}
+#### Eğitim {#sec-egitim}
 
 Hem tıp fakültesi hem uzmanlık eğitiminde verilen mikroskop eğitimlerindeki sorunlardan birisi de preparatların eskimesi ve nadir vakaların sayıca az olmasıdır.
 
@@ -192,7 +204,7 @@ Mikroskoptan ekrana geçişte şimdiki kuşağın yaşadığı sorunların tam t
 
 Ülkemizde genellikle digital slaytlar kullanılarak yukarıda sözü edilen teknik sorunların düzeltildiği ve aşıldığı görülmekle beraber interaktif eğitim teknikleri entegre edilmeden kullanılması sonucu bu yöntemin getirilerinden yeterince yararlanılamadığı görülmektedir.
 
-#### Konsültasyon {#konsultasyon}
+#### Konsültasyon {#sec-konsultasyon}
 
 Konunun eksper patoloğuna ulaşmak için daha önceleri lam ya da bloğun gönderilmesi, hatta bunun için şehirlerarası ya da ülkeler arası transfer gerekmekteydi.
 Artık bu görüntülerin (gigabaytlarca yer tutan sanal görüntülerin bile gönderilmeden) oluşturulacak bir link üzerinden paylaşılması ile konsültasyonlar rutin pratiğin kolay basamaklarından biri olacaktır.
@@ -241,7 +253,7 @@ Eski vakaların ya da konsültasyon için farklı laboratuvarda hazırlanıp gö
 Dijital görüntüler ile raporlamaya geçmeden önce en az 60 vakanın hem preparat hem de dijital görüntü ile ayrı ayrı raporlanması ve aralarındaki uyumluluğun test edilip dökümante edilmesini içeren *kişisel validasyon çalışmaları*na ihtiyaç vardır.
 Bu rakamın her boya, her örnek türü ve her tanıya göre hedeflenmesi istenmekle birlikte, kesin bir sayı olmayıp ilgili biyopsi türünde patoloğun kendini rahat hissedecek ve tanı arayüzü ile aşinalık kazanacak kadar devam etmesi önerilmektedir.
 
-### Dijital Tarayıcı Alınca Dijital Patolojiye Geçmiş Olabilir miyiz? {#dijital-tarayici-alinca-dijital-patolojiye-gecmis-olabilir-miyiz}
+### Dijital Tarayıcı Alınca Dijital Patolojiye Geçmiş Olabilir miyiz? {#sec-dijital-tarayici-alinca-dijital-patolojiye-gecmis-olabilir-miyiz}
 
 Dijital patoloji konusunda çalışma yapan dernekler tarayıcı alımını laboratuvarda yapılacak düzenlemelerden sonra olmasını önermektedir.
 Eğer laboratuvar iş akışı barkod ile düzenlenmemiş, ilgili lamın barkodu ile patoloji bilgi sistemi ve hastane bilgi sisteminden gerekli bilgiler alınamayacak ise, tarayıcıdan elde edilen görüntülerin işlenmesi oldukça zor olmaktadır.
@@ -268,11 +280,13 @@ Ancak bu durumda da fragmante dokuların taranmaması riski yanısıra, taranan 
 
 Bu gibi optimizasyonlar (düzenlemeler) yapılmadıkça patoloğun iş yükünü kolaylaştırmak yerine zorlaştıracak hale gelen dijital tarama beklenen verimlilikte kullanılamayacaktır.
 
-### Dijital Patoloji İçin Tarayıcıya İhtiyacımız Var Mı? {#dijital-patoloji-icin-tarayiciya-ihtiyacimiz-var-mi}
+### Dijital Patoloji İçin Tarayıcıya İhtiyacımız Var Mı? {#sec-dijital-patoloji-icin-tarayiciya-ihtiyacimiz-var-mi}
 
 Dijital patolojinin kolaylıklarından faydalanmak için mutlaka tarayıcının olmasına gerek yoktur.
 
 Araştırma, konsültasyon ve tanıya katkı sağlayacak algoritmaların kullanılması için çoğu zaman kamera bağlı mikroskop yeterli olacaktır.
+
+Araştırma Geliştirme çalışmaları için online veritabanları oldukça geniş olanaklar sunmaktadır: - [TCGA]() - [Grand Challange]() - [cBioPortal]()
 
 Hatta cep telefonlarının görüntü alması için geliştirilen okülere bağlanan ataçmanlar ile trinoküler mikroskop olmadan da görüntüler elde edilebilmektedir.
 
@@ -280,7 +294,7 @@ Mikroskopta lamın hareket ettirilmesi ile çekilen görüntülerin birleştiril
 
 Bir kez taranmış görüntü elde edildikten sonra bu görüntüleri gösterecek ve analiz edecek açık kaynak programlar oldukça yaygın olarak mevcut olmakla birlikte hala daha manuel tam yüzey taramanın kullanılabileceği açık kaynak programların olmaması dijital patoloji önündeki en büyük 'finansal' engel olarak durmaktadır.
 
-## Dijital Patolojinin Geleceği {#dijital-patolojinin-gelecegi}
+## Dijital Patolojinin Geleceği {#sec-dijital-patolojinin-gelecegi}
 
 Dijital patoloji hızla gelişen bir alan olduğundan patologların kendilerini bu gelişmelere hazırlamaları gerekmektedir.
 
@@ -290,7 +304,7 @@ Dijital patoloji görüntüleri şu an farklı firmalara ait farklı formatlar h
 Ancak yakın zamanda ortak bir format olan *DICOM*'a geçilmesi ile cihazlar arasındaki uyum da artacaktır.
 Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için de geliştirmeler hızlanacaktır.
 
-## Yapay Zekanın Dijital Patolojideki Yeri {#yapay-zekanin-dijital-patolojideki-yeri}
+## Yapay Zekanın Dijital Patolojideki Yeri {#sec-yapay-zekanin-dijital-patolojideki-yeri}
 
 Yapay zekanın görüntüler üzerindeki tecrübesinin patolojiye aktarılması ile bilimsel çalışmalarda sık görmeye başladığımız yapay zeka (makina öğrenmesi, derin öğrenme) kullanımı giderek günlük pratiğe de uygulanabilecek özellikler kazanmaktadır.
 Yapay zeka ile ilgili çalışmalar literatürde hesaplamalı/sayısal patoloji (computational pathology), matematiksel patoloji olarak da geçmektedir.
@@ -347,9 +361,9 @@ Algoritma destekli patoloji pratiğinde 'Bu vakayı Alp Hoca'ya danışalım' ye
 
 Tüm bu gelişmeler ışığında gelecekte, bilişimin, metin-görüntü işleme ve yapay zekanın patoloji bölümleri içinde bir alt grup olarak yerleşeceğini ve patoloji laboratuvarlarında bilişim sektöründen de çalışanlar olacağı tahmin edilmektedir.
 
-## İlginç ve örnek çalışmalar {#ilginc-ve-ornek-calismalar}
+## İlginç ve örnek çalışmalar {#sec-ilginc-ve-ornek-calismalar}
 
-### QuPath {#qupath}
+### QuPath {#sec-qupath}
 
 "QuPath" açık kaynak kodlu ve ücretsiz biyomedikal görüntü izleme ve inceleme programları arasında patoloji için en çok uygulama olanağı olan programlardandır.
 Programın yazarı ve geliştiricisi Dr. Peter Bankhead görüntü analizi için doktora yaptığı sırada elindeki olanakların yetersizliğini farkederek bu yazılımı oluşturmaya başlamış ve geliştirmeye devam etmektedir.
@@ -360,12 +374,12 @@ Yakın zamanda geliştirilen Python entegrasyonları ile de ileride çok daha fa
 
 ![](./resimler/resim8.png) *QuPath ile tümördeki müsin oranını kolayca tespit edebilmek mümkündür.*
 
-### HistoQC {#histoqc}
+### HistoQC {#sec-histoqc}
 
 Açık kaynak kodlu bir diğer program olan HistoQC ile taranan lamın ne kadar kaliteli olduğu, üzerindeki artefaktalrın ne kadar yer kapladığı, araştırma amaçlı yeterli olup olmadığı tespit edilebilmektedir.
 Ayrıca rutin HE boya kalitesi de bu program ile takip edilebilmektedir.
 
-### Octopi {#octopi}
+### Octopi {#sec-octopi}
 
 Stanford üniveristesinden Prakash Laboratuvarı'nın geliştirdiği Octopi ucuz maliyetli (250 dolar) bir dijital tarama cihazıdır.
 Bu tarama cihazı periferik kan yaymalarında malaria tespiti için optimize edilmiştir.
@@ -375,7 +389,7 @@ Bu çalışma hedefe yönelik olarak geliştirilecek dijital patoloji cihaz ve y
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
-# Okuma önerileri: {#okuma-onerileri}
+# Okuma önerileri: {#sec-okuma-onerileri}
 
 -   European Society for Digital and Integrative Pathology <https://digitalpathologysociety.org/>
 -   Digital Pathology Association <https://digitalpathologyassociation.org/>
@@ -403,7 +417,7 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 -   Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis <https://www.youtube.com/watch?v=7pRmonus9iM>
 -   Atallah, N.M., Toss, M.S., Verrill, C. et al. Potential quality pitfalls of digitalized whole slide image of breast pathology in routine practice. Mod Pathol (2021). <https://doi.org/10.1038/s41379-021-01000-8>
 
-## Açık kaynak kodlu ya da ücretsiz dijital patoloji programları:
+# Açık kaynak kodlu veya ücretsiz dijital patoloji programları: {#sec-programlar}
 
 -   QuickAnnotator <https://github.com/choosehappy/QuickAnnotator>
 -   HistoQC <https://github.com/choosehappy/HistoQC>
