@@ -4,10 +4,15 @@ author: Serdar Balcı
 format:
   gfm:
     preview-mode: raw
+date: last-modified 
 lang: tr
+toc: true
+keep-yaml: true
 keep-md: true
 editor: visual
 bibliography: references.bib
+citation: true
+reference-location: document
 shift-heading-level-by: 1
 ---
 

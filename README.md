@@ -1,5 +1,20 @@
 # Patoloji ve Bilişim
 Serdar Balcı
+2023-06-02
+
+- [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
+  - [Patolojide Bilişimin yeri
+    nedir?](#sec-patolojide-bilisimin-yeri-nedir)
+  - [Patolojideki Bilgi Türleri
+    Nelerdir?](#sec-patolojideki-bilgi-turleri-nelerdir)
+  - [Dijital Patoloji Nedir?](#sec-dijital-patoloji-nedir)
+  - [Dijital Patolojinin Geleceği](#sec-dijital-patolojinin-gelecegi)
+  - [Yapay Zekanın Dijital Patolojideki
+    Yeri](#sec-yapay-zekanin-dijital-patolojideki-yeri)
+  - [İlginç ve örnek çalışmalar](#sec-ilginc-ve-ornek-calismalar)
+- [Okuma önerileri:](#sec-okuma-onerileri)
+- [Açık kaynak kodlu veya ücretsiz dijital patoloji
+  programları:](#sec-programlar)
 
 ## Patoloji ve Bilişim
 
