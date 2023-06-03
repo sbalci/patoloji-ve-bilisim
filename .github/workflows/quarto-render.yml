@@ -16,7 +16,7 @@ jobs:
         with:
           version: pre-release
           # tinytex: true
-          to: [html, gfm]
+          # to: html
           path: source-folder
 
 
