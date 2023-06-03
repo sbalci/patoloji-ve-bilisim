@@ -11,9 +11,12 @@ keep-yaml: true
 keep-md: true
 editor: visual
 bibliography: references.bib
-citation: true
 reference-location: document
 shift-heading-level-by: 1
+citation:
+  type: chapter
+  container-title: "Patoloji ve Bilişim"
+  doi: 10.17605/OSF.IO/BRZUF
 ---
 
 # Patoloji ve Bilişim {#sec-patoloji-ve-bilisim}
@@ -391,7 +394,20 @@ Bu çalışma hedefe yönelik olarak geliştirilecek dijital patoloji cihaz ve y
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
-# Okuma önerileri: {#sec-okuma-onerileri}
+
+
+
+
+# Referanslar ve okuma Önerileri
+
+## Referanslar
+
+::: {#refs}
+:::
+
+
+
+## Okuma önerileri: {#sec-okuma-onerileri}
 
 -   European Society for Digital and Integrative Pathology <https://digitalpathologysociety.org/>
 -   Digital Pathology Association <https://digitalpathologyassociation.org/>
@@ -419,7 +435,7 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 -   Digital Pathology & AI in routine clinical practice:From quality control to primary cancer diagnosis <https://www.youtube.com/watch?v=7pRmonus9iM>
 -   Atallah, N.M., Toss, M.S., Verrill, C. et al. Potential quality pitfalls of digitalized whole slide image of breast pathology in routine practice. Mod Pathol (2021). <https://doi.org/10.1038/s41379-021-01000-8>
 
-# Açık kaynak kodlu veya ücretsiz dijital patoloji programları: {#sec-programlar}
+## Açık kaynak kodlu veya ücretsiz dijital patoloji programları: {#sec-programlar}
 
 -   QuickAnnotator <https://github.com/choosehappy/QuickAnnotator>
 -   HistoQC <https://github.com/choosehappy/HistoQC>

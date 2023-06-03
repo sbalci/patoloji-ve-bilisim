@@ -1,6 +1,6 @@
 # Patoloji ve Bilişim
 Serdar Balcı
-2023-06-02
+2023-06-03
 
 - [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
   - [Patolojide Bilişimin yeri
@@ -12,9 +12,11 @@ Serdar Balcı
   - [Yapay Zekanın Dijital Patolojideki
     Yeri](#sec-yapay-zekanin-dijital-patolojideki-yeri)
   - [İlginç ve örnek çalışmalar](#sec-ilginc-ve-ornek-calismalar)
-- [Okuma önerileri:](#sec-okuma-onerileri)
-- [Açık kaynak kodlu veya ücretsiz dijital patoloji
-  programları:](#sec-programlar)
+- [Referanslar ve okuma Önerileri](#referanslar-ve-okuma-önerileri)
+  - [Referanslar](#referanslar)
+  - [Okuma önerileri:](#sec-okuma-onerileri)
+  - [Açık kaynak kodlu veya ücretsiz dijital patoloji
+    programları:](#sec-programlar)
 
 ## Patoloji ve Bilişim
 
@@ -697,7 +699,25 @@ ve yöntemlerinin ucuz ve etkin olabileceğinin en önemli
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma
 önerilerinde verilmiştir.
 
-## Okuma önerileri:
+## Referanslar ve okuma Önerileri
+
+### Referanslar
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-Movahed-Ezazi2023" class="csl-entry">
+
+Movahed-Ezazi, Misha, Mustafa Nasir-Moin, Camila Fang, Isabella
+Pizzillo, Kristyn Galbraith, Steven Drexler, Olga A. Krasnozhen-Ratush,
+vd. 2023. “Clinical Validation of Stimulated Raman Histology for Rapid
+Intraoperative Diagnosis of CNS Tumors”. *Modern Pathology*, Mayıs,
+100219. <https://doi.org/10.1016/j.modpat.2023.100219>.
+
+</div>
+
+</div>
+
+### Okuma önerileri:
 
 - European Society for Digital and Integrative Pathology
   <https://digitalpathologysociety.org/>
@@ -761,7 +781,7 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma
   routine practice. Mod Pathol (2021).
   <https://doi.org/10.1038/s41379-021-01000-8>
 
-## Açık kaynak kodlu veya ücretsiz dijital patoloji programları:
+### Açık kaynak kodlu veya ücretsiz dijital patoloji programları:
 
 - QuickAnnotator <https://github.com/choosehappy/QuickAnnotator>
 - HistoQC <https://github.com/choosehappy/HistoQC>
@@ -773,17 +793,3 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma
 - ImageJ/ Fiji <https://fiji.sc/>
 - ImageScope
   <https://www.leicabiosystems.com/digital-pathology/manage/aperio-imagescope/>
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-Movahed-Ezazi2023" class="csl-entry">
-
-Movahed-Ezazi, Misha, Mustafa Nasir-Moin, Camila Fang, Isabella
-Pizzillo, Kristyn Galbraith, Steven Drexler, Olga A. Krasnozhen-Ratush,
-vd. 2023. “Clinical Validation of Stimulated Raman Histology for Rapid
-Intraoperative Diagnosis of CNS Tumors”. *Modern Pathology*, Mayıs,
-100219. <https://doi.org/10.1016/j.modpat.2023.100219>.
-
-</div>
-
-</div>
