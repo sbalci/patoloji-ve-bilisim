@@ -3,3 +3,6 @@ project:
 
 editor: visual
 
+execute:
+  freeze: false  # whrther to re-execute computational content during project render
+
