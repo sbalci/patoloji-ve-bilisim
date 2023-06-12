@@ -394,18 +394,12 @@ Bu çalışma hedefe yönelik olarak geliştirilecek dijital patoloji cihaz ve y
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
-
-
-
-
 # Referanslar ve okuma Önerileri
 
 ## Referanslar
 
 ::: {#refs}
 :::
-
-
 
 ## Okuma önerileri: {#sec-okuma-onerileri}
 
@@ -446,3 +440,10 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 -   Micaia <http://www.micaia.ai>
 -   ImageJ/ Fiji <https://fiji.sc/>
 -   ImageScope <https://www.leicabiosystems.com/digital-pathology/manage/aperio-imagescope/>
+
+
+navigasyon ok tuşları, aswdrz, +- 
+middle click
+scroll
+resim, görüntü kaydetme
+
