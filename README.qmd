@@ -37,6 +37,8 @@ Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntü
 Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.
 
 Bilginin teknoloji kullanılarak işlenmesindeki gelişmeleri, patoloji disiplini, bazen geriden bazen öncü olarak, ama emin adımlarla takip etmekte ve kendi işleyişine katmaktadır.
+(Computational Pathology: A Path Ahead
+https://pubmed.ncbi.nlm.nih.gov/26098131/)
 
 -   Bilimsel bilginin sürekli artması,
 -   hemen her yıl yeni bir DSÖ sınıflama kitabının çıkması,
@@ -239,6 +241,10 @@ Bu yeni yöntemler kendi **ergonomi** sorunlarını da birlikte getirmektedir.
 Şaryo kullanmaya ve objektif değiştirmeye alışkın patolog *kas hafızası (muscle memory)* klasik bilgisayar faresi ile eşleşmekten uzaktır.
 Bu nedenle 3D fareler ve şaryoyu taklit eden bilgisayar bileşenleri geliştirilmektedir.
 
+Şu an kullanılan ara yüzlerdeki farklılıklar da kullanım alışkanlığı geliştirmeyi zorlaştırmaktadır.
+
+\<--WIP--\> Bilgisayar fare orta tuş kilidi olan ve olmayan arayüzler (https://middleclick.app/), büyütme ve küçültme (zoom in/out) hızlarının klasik mikroskoplardan farklı olması yanısıra klavye ve bilgisayar bileşenlerine (oyunlara) aşina neslin kullandığı oklar, `aswd` tuşlarının ... \<--WIP--\>
+
 Nasıl bir ekran kullanılacağı ve ekranın *"tıbbi ekran"* kategorisinde olup olmaması gerektiği de süregiden bir tartışma konusudur (Bkz. Leeds ekran testi)
 
 *İşaretleme* alışkanlığının değişmesi (lamlara yazılan yazıların artık ekrandan yazılması, lamlardaki işaretlerin taramada *artefakt* oluşturması), *küçük fragmanlar*ın tarama sırasında ya da patolog bakarken atlanması endişesi de güncel tartışmalardandır.
@@ -394,18 +400,12 @@ Bu çalışma hedefe yönelik olarak geliştirilecek dijital patoloji cihaz ve y
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
-
-
-
-
 # Referanslar ve okuma Önerileri
 
 ## Referanslar
 
 ::: {#refs}
 :::
-
-
 
 ## Okuma önerileri: {#sec-okuma-onerileri}
 
