@@ -27,9 +27,17 @@ citation:
 
 [DOI 10.17605/OSF.IO/BRZUF](https://osf.io/brzuf/)
 
-> Bu yazı *Prof. Dr. Alp Usubütün* editörlüğünde hazırlanan *"Sağlık Bilimleri İçin Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu 2. Baskı - Ekim 2022 Ankara Nobel Tıp Kitabevleri ISBN: 978-625-7564-70-0"* adlı kitaptaki *"8. Bölüm: Patolojide Yeni Yöntemler ve Gelecek"* için hazırlanmıştır.
-> Ancak bu alanın çok hızlı ilerlemesi nedeniyle bu metni güncel tutmak (ve bir sonraki baskı için gerekirse hazır bulunmak için) metin içeriği burada güncellenecektir.
-> **Doç. Dr. Serdar Balcı**
+> Bu yazı *Prof. Dr. Alp Usubütün* editörlüğünde hazırlanan *"Sağlık Bilimleri İçin Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu 2. Baskı - Ekim 2022 Ankara Nobel Tıp Kitabevleri ISBN: 978-625-7564-70-0"*[^1] [^2] adlı kitaptaki *"8. Bölüm: Patolojide Yeni Yöntemler ve Gelecek"*[^3] için hazırlanmıştı
+> r. Ancak bu alanın çok hızlı ilerlemesi nedeniyle bu metni güncel tutmak (ve bir sonraki baskı için gerekirse hazır bulunmak için) metin içeriği burada güncellenecekti
+> r. **Doç. Dr. Serdar Balcı**
+
+[^1]: ![Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu](resimler/patoloji-laboratuvarini-anlama-kilavuzu-1.jpg){width="25%"}
+
+[^2]: ![Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu](resimler/patoloji-laboratuvarini-anlama-kilavuzu-2.jpg){width="50%"}
+
+[^3]: ![Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu](resimler/patoloji-laboratuvarini-anlama-kilavuzu-4.jpg){width="25%"}
+
+
 
 ## Patolojide Bilişimin yeri nedir? {#sec-patolojide-bilisimin-yeri-nedir}
 
@@ -238,13 +246,35 @@ Geçiş sürecinde yaşanabilecek sorunlar ve çözümleri için derneklerin, **
 
 Bu yeni yöntemler kendi **ergonomi** sorunlarını da birlikte getirmektedir.
 Şaryo kullanmaya ve objektif değiştirmeye alışkın patolog *kas hafızası (muscle memory)* klasik bilgisayar faresi ile eşleşmekten uzaktır.
-Bu nedenle 3D fareler ve şaryoyu taklit eden bilgisayar bileşenleri geliştirilmektedir.
+Bu nedenle iztopu (trackball) ya da 3D fareler ve şaryoyu taklit eden bilgisayar bileşenleri geliştirilmektedir.
 
 Şu an kullanılan ara yüzlerdeki farklılıklar da kullanım alışkanlığı geliştirmeyi zorlaştırmaktadır.
 
-\<--WIP--\> Bilgisayar fare orta tuş kilidi olan ve olmayan arayüzler (https://middleclick.app/), büyütme ve küçültme (zoom in/out) hızlarının klasik mikroskoplardan farklı olması yanısıra klavye ve bilgisayar bileşenlerine (oyunlara) aşina neslin kullandığı oklar, `aswd` tuşlarının ... \<--WIP--\>
+\<--WIP--\>
+
+-   Bilgisayar fare orta tuş kilidi olan ve olmayan arayüzler (https://middleclick.app/), büyütme ve küçültme (zoom in/out) hızlarının klasik mikroskoplardan farklı olması yanısıra klavye ve bilgisayar bileşenlerine (oyunlara) aşina neslin kullandığı oklar, `aswd` tuşlarının ...
+
+-   navigasyon ok tuşları, aswdrz, +- middle click scroll resim, görüntü kaydetme
+
+-   Sectra, ViraSoft ve OpenSeaDragon arayüzlerindeki farklılıklar.
+
+\<--WIP--\>
 
 Nasıl bir ekran kullanılacağı ve ekranın *"tıbbi ekran"* kategorisinde olup olmaması gerektiği de süregiden bir tartışma konusudur (Bkz. Leeds ekran testi)
+
+\<--WIP--\>
+
+-   Tek ya da çoklu monitörde çalışma, dokunmatik ekranlar
+
+-   ekran çözünürlüğü, tepki süresi
+
+-   sanal mape çeşitleri
+
+-   lamın vertikal ya da horizontal taranması
+
+-   taranan alanların işaretlenmesi (heatmap)
+
+\<--WIP--\>
 
 *İşaretleme* alışkanlığının değişmesi (lamlara yazılan yazıların artık ekrandan yazılması, lamlardaki işaretlerin taramada *artefakt* oluşturması), *küçük fragmanlar*ın tarama sırasında ya da patolog bakarken atlanması endişesi de güncel tartışmalardandır.
 
@@ -445,5 +475,3 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 -   Micaia <http://www.micaia.ai>
 -   ImageJ/ Fiji <https://fiji.sc/>
 -   ImageScope <https://www.leicabiosystems.com/digital-pathology/manage/aperio-imagescope/>
-
-navigasyon ok tuşları, aswdrz, +- middle click scroll resim, görüntü kaydetme
