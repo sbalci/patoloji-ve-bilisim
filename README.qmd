@@ -37,8 +37,7 @@ Patologları, hastanın klinik bilgilerini, makroskopi ve mikroskopik görüntü
 Abartılı bir tarif gibi görünse de çoğu hasta dosyasında, hasta hakkında en çok ve en doğru (hatta hala daha altın standart) bilgiler patologların ürettiği patoloji raporlarında yer almaktadır.
 
 Bilginin teknoloji kullanılarak işlenmesindeki gelişmeleri, patoloji disiplini, bazen geriden bazen öncü olarak, ama emin adımlarla takip etmekte ve kendi işleyişine katmaktadır.
-(Computational Pathology: A Path Ahead
-https://pubmed.ncbi.nlm.nih.gov/26098131/)
+(Computational Pathology: A Path Ahead https://pubmed.ncbi.nlm.nih.gov/26098131/)
 
 -   Bilimsel bilginin sürekli artması,
 -   hemen her yıl yeni bir DSÖ sınıflama kitabının çıkması,
@@ -447,9 +446,4 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 -   ImageJ/ Fiji <https://fiji.sc/>
 -   ImageScope <https://www.leicabiosystems.com/digital-pathology/manage/aperio-imagescope/>
 
-
-navigasyon ok tuşları, aswdrz, +- 
-middle click
-scroll
-resim, görüntü kaydetme
-
+navigasyon ok tuşları, aswdrz, +- middle click scroll resim, görüntü kaydetme
