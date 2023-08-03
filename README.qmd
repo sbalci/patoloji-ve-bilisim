@@ -27,7 +27,7 @@ citation:
 
 [DOI 10.17605/OSF.IO/BRZUF](https://osf.io/brzuf/)
 
-> Bu yazı *Prof. Dr. Alp Usubütün* editörlüğünde hazırlanan *"Sağlık Bilimleri İçin Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu 2. Baskı - Ekim 2022 Ankara Nobel Tıp Kitabevleri ISBN: 978-625-7564-70-0"*[^1] [^2] adlı kitaptaki *"8. Bölüm: Patolojide Yeni Yöntemler ve Gelecek"*[^3] için hazırlanmıştı
+> Bu yazı *Prof. Dr. Alp Usubütün* editörlüğünde hazırlanan [*"Sağlık Bilimleri İçin Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu 2. Baskı - Ekim 2022 Ankara Nobel Tıp Kitabevleri ISBN: 978-625-7564-70-0"*](https://www.ankaranobel.com/patoloji-ve-laboratuvarini-anlama-kilavuzu) [^1] [^2] adlı kitaptaki *"8. Bölüm: Patolojide Yeni Yöntemler ve Gelecek"*[^3] için hazırlanmıştı
 > r. Ancak bu alanın çok hızlı ilerlemesi nedeniyle bu metni güncel tutmak (ve bir sonraki baskı için gerekirse hazır bulunmak için) metin içeriği burada güncellenecekti
 > r. **Doç. Dr. Serdar Balcı**
 
@@ -36,6 +36,10 @@ citation:
 [^2]: ![Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu](resimler/patoloji-laboratuvarini-anlama-kilavuzu-2.jpg){width="50%"}
 
 [^3]: ![Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu](resimler/patoloji-laboratuvarini-anlama-kilavuzu-4.jpg){width="25%"}
+
+
+[![](https://percdn.com/f/108382/cG96WmFtNG0vcUp3ZUdGcEg4OG5icmdQYmNFPQ/images/urunler/patoloji-ve-patoloji-laboratuvarini-anlama-kilavuzu-2-baski-202569.webp){width="25%"}](https://www.ankaranobel.com/patoloji-ve-laboratuvarini-anlama-kilavuzu)
+
 
 ## Patolojide Bilişimin yeri nedir? {#sec-patolojide-bilisimin-yeri-nedir}
 
@@ -72,7 +76,6 @@ Patolojide bilgi türleri temel olarak *laboratuvar iş akışı*, *metin* ve *g
 ### Laboratuvar İş Akışı {#sec-laboratuvar-is-akisi}
 
 ::: {.content-hidden when-format="markdown"}
-
 Bir laboratuvar branşı olarak patolojideki iş akışı çoğu zaman hastane yöneticilerinin ve hekimlerin de bilmediği karmaşık basamaklardan oluşmaktadır.
 Bu basamakların her biri kendine has kalite kontrol ögeleri ve veriler içermektedir.
 Her ne kadar laboratuvar branşı olarak görülse de, patoloji sadece klinikten gelen isteklerin yapıldığı bir laboratuvar değildir.
@@ -81,14 +84,11 @@ Patologlar gelen spesmene bir hasta gibi yaklaşıp her spesmene özgü ayrı ö
 Patolojinin ayrı bir klinik olarak tanımlanmaması, patoloğun tetkik isteyen bir hekim olarak kurgulanmamış olması nedeniyle hem rutin işleyişte hem de fatura ve performans değerlendirmelerinde sorunlar ortaya çıkmaktadır.
 
 ![Resim 2: Patoloji iş akışı](./resimler/resim2.png "Resim 2") *Resim 2: Patoloji iş akışı*
-
 :::
-
 
 ### Metin Bilgileri {#sec-metin-bilgileri}
 
 ::: {.content-hidden when-format="markdown"}
-
 Patolojideki metin bilgilerini:
 
 -   patoloğa
@@ -126,7 +126,6 @@ Patoloji raporlarının *metin madenciliği* yöntemleri kullanılarak sınıfla
 Ancak bu yöntemlerin başarılı olabilmesi için standart yazıma ve daktilo hatalarını en aza indirecek uygulamalara ihtiyaç vardır.
 
 Diktasyon ve sesi metne dönüştüren yazılımların makroskopik ve mikroskopik tariflerde kullanımı yaygınlaşmaktadır.
-
 :::
 
 ### Görüntüler {#sec-goruntuler}
@@ -219,7 +218,6 @@ gibi alanlarda geliştirilmiş yazılım ve karar destek sistemleri mevcuttur.
 #### Eğitim {#sec-egitim}
 
 ::: {.content-hidden when-format="markdown"}
-
 Hem tıp fakültesi hem uzmanlık eğitiminde verilen mikroskop eğitimlerindeki sorunlardan birisi de preparatların eskimesi ve nadir vakaların sayıca az olmasıdır.
 
 Dijital görüntüler ile hem bu sorun aşılacak, hem de interaktif ögelerin de kullanımı ile farklı eğitim teknikleri kullanılabilecektir.
@@ -243,7 +241,6 @@ Konunun eksper patoloğuna ulaşmak için daha önceleri lam ya da bloğun gönd
 Artık bu görüntülerin (gigabaytlarca yer tutan sanal görüntülerin bile gönderilmeden) oluşturulacak bir link üzerinden paylaşılması ile konsültasyonlar rutin pratiğin kolay basamaklarından biri olacaktır.
 
 Bu durum ileride uzaktan çalışma ile iş piyasasına da farklı yaklaşımlar getirecektir.
-
 :::
 
 #### Rutin Raporlama {rutin-raporlama}
@@ -299,10 +296,7 @@ Nasıl bir ekran kullanılacağı ve ekranın *"tıbbi ekran"* kategorisinde olu
 
 \<--WIP--\>
 
-
-
 ::: {.content-hidden when-format="markdown"}
-
 *İşaretleme* alışkanlığının değişmesi (lamlara yazılan yazıların artık ekrandan yazılması, lamlardaki işaretlerin taramada *artefakt* oluşturması), *küçük fragmanlar*ın tarama sırasında ya da patolog bakarken atlanması endişesi de güncel tartışmalardandır.
 
 İlk çalışılmaya başlanan, tek tip hücre grubundan oluştuğu için ve patern analizi gerektirmediği için kolay olduğu varsayılan servikal yaymalar dijital patolojide hala öncü yer tutamamaktadır.
@@ -346,7 +340,6 @@ Görüntülerin daha az yer kaplaması için 40x yerine 20x tarama, boş lam ala
 Ancak bu durumda da fragmante dokuların taranmaması riski yanısıra, taranan her lamın tanı için yeterli olduğunun teyidi gibi ek bir iş basamağı da ortaya çıkmaktadır.
 
 Bu gibi optimizasyonlar (düzenlemeler) yapılmadıkça patoloğun iş yükünü kolaylaştırmak yerine zorlaştıracak hale gelen dijital tarama beklenen verimlilikte kullanılamayacaktır.
-
 :::
 
 ### Dijital Patoloji İçin Tarayıcıya İhtiyacımız Var Mı? {#sec-dijital-patoloji-icin-tarayiciya-ihtiyacimiz-var-mi}
@@ -368,7 +361,6 @@ Bir kez taranmış görüntü elde edildikten sonra bu görüntüleri gösterece
 ## Dijital Patolojinin Geleceği {#sec-dijital-patolojinin-gelecegi}
 
 ::: {.content-hidden when-format="markdown"}
-
 Dijital patoloji hızla gelişen bir alan olduğundan patologların kendilerini bu gelişmelere hazırlamaları gerekmektedir.
 
 Altyapı yatırımları sırasında geliştirilebilir modüler yapıların tercih edilmesi; basit ekran paylaşımından öteye gitmeyen ve açık kaynak ile ulaşılabilecek programlar için masraf yapmadan önce yetkin görüş alınması önerilmektedir.
@@ -376,7 +368,6 @@ Altyapı yatırımları sırasında geliştirilebilir modüler yapıların terci
 Dijital patoloji görüntüleri şu an farklı firmalara ait farklı formatlar halindedir.
 Ancak yakın zamanda ortak bir format olan *DICOM*'a geçilmesi ile cihazlar arasındaki uyum da artacaktır.
 Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için de geliştirmeler hızlanacaktır.
-
 :::
 
 ## Yapay Zekanın Dijital Patolojideki Yeri {#sec-yapay-zekanin-dijital-patolojideki-yeri}
@@ -436,7 +427,6 @@ Gelecekte her mikroskopta bir kameranın olduğu, masabaşında hemen ulaşılab
 Algoritma destekli patoloji pratiğinde 'Bu vakayı Alp Hoca'ya danışalım' yerine 'Bu vakayı AlpApp v25'e yükleyelim' gibi cümleler yer alacağı gibi, ihtiyaca göre uygulama indirilen / geliştirilen PathAppStore'ları da hayatımızdaki yeniliklerden olacaktır.
 
 Tüm bu gelişmeler ışığında gelecekte, bilişimin, metin-görüntü işleme ve yapay zekanın patoloji bölümleri içinde bir alt grup olarak yerleşeceğini ve patoloji laboratuvarlarında bilişim sektöründen de çalışanlar olacağı tahmin edilmektedir.
-
 :::
 
 ## İlginç ve örnek çalışmalar {#sec-ilginc-ve-ornek-calismalar}
@@ -450,7 +440,6 @@ Tümör ve stromda ayrımı, farklı hücrelerin ve dokuların ayrılması gibi 
 Yakın zamanda geliştirilen Python entegrasyonları ile de ileride çok daha fazla özellik kazanacağı tahmin edilmektedir.
 
 ![](./resimler/resim8.png) *QuPath ile tümördeki müsin oranını kolayca tespit edebilmek mümkündür.*
-
 :::
 
 ### QuPath {#sec-qupath}
