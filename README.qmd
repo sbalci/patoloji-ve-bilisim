@@ -487,6 +487,7 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 -   Digital Pathology Association <https://digitalpathologyassociation.org/>
 -   empaia Academy <https://en.empaia.org/academy-2-1>
 -   Patoloji Atlası <https://www.patolojiatlasi.com/>
+-   Histopathology Atlas <https://www.histopathologyatlas.com/>
 -   Patoloji Notları <https://www.patolojinotlari.com/>
 -   QuPath <https://qupath.github.io/> Bankhead, P. et al. QuPath: Open source software for digital pathology image analysis. Scientific Reports (2017). <https://doi.org/10.1038/s41598-017-17204-5>
 -   Pete Bankhead, 2022, Introduction to Bioimage Analysis <https://bioimagebook.github.io>
