@@ -331,9 +331,13 @@ ancak bu bütünlük sağlanabilirse mümkün olacaktır.
 Ancak bu algoritmanın çalışabilmesi için o lamın bir meme biyopsisine ait olduğu, o lamdaki boyamanın bir hormon reseptörüne ait olduğu ve boyama değerlendirmesi için çalışacak spesifik algoritmanın ne olduğu belli olmalıdır.
 
 Laboratuvardaki tüm cihazlar aynı barkod bilgisi ile çalışabilecek, ya da barkoddan kendisi ile ilgili alanı okuyabilecek şekilde düzenlenmiş olmalıdır.
+:::
 
-Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod / karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı önündeki önemli engellerden biridir.
 
+Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod / karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı önündeki önemli engellerden biridir. Bu konuda firmalar arası entegrasyonun sağlanabilmesi oldukça önemlidir. Yakın zamanda Memorial Patoloji'de tüm basamaklardaki datamatrix kodları birleştirilmiş olup, immünohistokimya cihazındaki entegrasyon da tamamlanmak üzeredir. 
+
+
+::: {.content-hidden when-format="markdown"}
 Tüm yüzey taramadaki görüntüler oldukça fazla yer kaplamaktadır.
 Radyoloji görüntüleri ile kıyaslandığında bu fazlalık daha da çarpıcı olarak görülmektedir.
 Görüntülerin daha az yer kaplaması için 40x yerine 20x tarama, boş lam alanlarının taranmaması gibi çözümler kullanılmaktadır.

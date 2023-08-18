@@ -1,6 +1,6 @@
 # Patoloji ve Bilişim
 Serdar Balcı
-2023-08-03
+2023-08-18
 
 - [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
   - [Patolojide Bilişimin yeri
@@ -156,6 +156,14 @@ ekran testi)
 - taranan alanların işaretlenmesi (heatmap)
 
 \<–WIP–\>
+
+Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod /
+karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve
+değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı
+önündeki önemli engellerden biridir. Bu konuda firmalar arası
+entegrasyonun sağlanabilmesi oldukça önemlidir. Yakın zamanda Memorial
+Patoloji’de tüm basamaklardaki datamatrix kodları birleştirilmiş olup,
+immünohistokimya cihazındaki entegrasyon da tamamlanmak üzeredir.
 
 #### Dijital Patoloji İçin Tarayıcıya İhtiyacımız Var Mı?
 
