@@ -1,6 +1,6 @@
 # Patoloji ve Bilişim
 Serdar Balcı
-2023-08-18
+2023-08-19
 
 - [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
   - [Patolojide Bilişimin yeri
@@ -106,6 +106,19 @@ Patolojide bilgi türleri temel olarak *laboratuvar iş akışı*, *metin* ve
 #### Laboratuvar İş Akışı
 
 #### Metin Bilgileri
+
+Patolojideki metin bilgilerini:
+
+- patoloğa
+  - klinikten ve
+  - literatürden gelen bilgiler ile
+- patoloğun ürettiği raporlar oluşturmaktadır.
+
+Bu bilgi türlerine belki `sosyal medya`yı da eklemek uygun olacaktır.
+Sosyal medyada paylaşılan rutin ya da ilginç patoloji vakaları
+derlendiğinde bir patoloji kitabı oluşturmak mümkün olabilir [^4].
+Ayrıca bu veriler görüntü analizleri için bile kullanılabilmektedir
+[PMID:37592105](https://pubmed.ncbi.nlm.nih.gov/37592105/).
 
 #### Görüntüler
 
@@ -279,3 +292,5 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma
 [^3]: <img src="resimler/patoloji-laboratuvarini-anlama-kilavuzu-4.jpg"
     style="width:25.0%"
     alt="Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu" />
+
+[^4]: [Patoloji Notları](https://www.patolojinotlari.com/)

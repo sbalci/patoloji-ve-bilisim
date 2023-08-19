@@ -6,3 +6,9 @@ editor: visual
 execute:
   freeze: false  # whether to re-execute computational content during project render
 
+format:
+  gfm:
+    preview-mode: raw
+  pdf: default
+  epub: default
+  html: default

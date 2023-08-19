@@ -37,9 +37,7 @@ citation:
 
 [^3]: ![Sağlık Bilimleri için Patoloji ve Patoloji Laboratuvarını Anlama Kılavuzu](resimler/patoloji-laboratuvarini-anlama-kilavuzu-4.jpg){width="25%"}
 
-
 [![](https://percdn.com/f/108382/cG96WmFtNG0vcUp3ZUdGcEg4OG5icmdQYmNFPQ/images/urunler/patoloji-ve-patoloji-laboratuvarini-anlama-kilavuzu-2-baski-202569.webp){width="25%"}](https://www.ankaranobel.com/patoloji-ve-laboratuvarini-anlama-kilavuzu)
-
 
 ## Patolojide Bilişimin yeri nedir? {#sec-patolojide-bilisimin-yeri-nedir}
 
@@ -88,7 +86,6 @@ Patolojinin ayrı bir klinik olarak tanımlanmaması, patoloğun tetkik isteyen 
 
 ### Metin Bilgileri {#sec-metin-bilgileri}
 
-::: {.content-hidden when-format="markdown"}
 Patolojideki metin bilgilerini:
 
 -   patoloğa
@@ -96,6 +93,13 @@ Patolojideki metin bilgilerini:
     -   literatürden gelen bilgiler ile
 -   patoloğun ürettiği raporlar oluşturmaktadır.
 
+Bu bilgi türlerine belki `sosyal medya`yı da eklemek uygun olacaktır.
+Sosyal medyada paylaşılan rutin ya da ilginç patoloji vakaları derlendiğinde bir patoloji kitabı oluşturmak mümkün olabilir [^4].
+Ayrıca bu veriler görüntü analizleri için bile kullanılabilmektedir [PMID:37592105](https://pubmed.ncbi.nlm.nih.gov/37592105/).
+
+[^4]: [Patoloji Notları](https://www.patolojinotlari.com/)
+
+::: {.content-hidden when-format="markdown"}
 Bu bilgilerin:
 
 -   düzgün,
@@ -333,9 +337,9 @@ Ancak bu algoritmanın çalışabilmesi için o lamın bir meme biyopsisine ait 
 Laboratuvardaki tüm cihazlar aynı barkod bilgisi ile çalışabilecek, ya da barkoddan kendisi ile ilgili alanı okuyabilecek şekilde düzenlenmiş olmalıdır.
 :::
 
-
-Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod / karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı önündeki önemli engellerden biridir. Bu konuda firmalar arası entegrasyonun sağlanabilmesi oldukça önemlidir. Yakın zamanda Memorial Patoloji'de tüm basamaklardaki datamatrix kodları birleştirilmiş olup, immünohistokimya cihazındaki entegrasyon da tamamlanmak üzeredir. 
-
+Günümüzde kaset, immünohistokimya ve tayarıcılardaki farklı barkod / karekod / datamatrix kullanımı ve bu içeriğin firmalara özgün ve değiştirilemez olarak tanımlanması, kesintisiz bir laboratuvar iş akışı önündeki önemli engellerden biridir.
+Bu konuda firmalar arası entegrasyonun sağlanabilmesi oldukça önemlidir.
+Yakın zamanda Memorial Patoloji'de tüm basamaklardaki datamatrix kodları birleştirilmiş olup, immünohistokimya cihazındaki entegrasyon da tamamlanmak üzeredir.
 
 ::: {.content-hidden when-format="markdown"}
 Tüm yüzey taramadaki görüntüler oldukça fazla yer kaplamaktadır.
