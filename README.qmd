@@ -452,6 +452,12 @@ Yakın zamanda geliştirilen Python entegrasyonları ile de ileride çok daha fa
 
 ### QuPath {#sec-qupath}
 
+QuPath'ın WSinfer adlı eklentisi ile literatürdeki yapay zeka modellerini kendi vakalarımızda kolayca uygulamak mümkün. [^wsinfer]   
+
+[^wsinfer]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
+
+
+
 ### HistoQC {#sec-histoqc}
 
 ::: {.content-hidden when-format="markdown"}
