@@ -481,6 +481,14 @@ Malaria'nın otofloresan özelliği sayesinde hızlıca tarama yapan ve tanısal
 Bu çalışma hedefe yönelik olarak geliştirilecek dijital patoloji cihaz ve yöntemlerinin ucuz ve etkin olabileceğinin en önemli örneklerindendir.
 :::
 
+### OpenFlexure Microscope {sec-openflexure-microscope} 
+
+https://openflexure.org/projects/microscope/
+
+PATHOLOGY RESIDENT EXPERIENCE USING A LOW-COST 3D PRINTED MICROSCOPE FOR PORTABLE DIGITAL PATHOLOGY
+https://doi.org/10.1016/j.jpi.2022.100043
+
+
 ### µManager {sec-micromanager}
 
 Open Source Software for Control and Automation of Microscope Hardware [^micromanager]
