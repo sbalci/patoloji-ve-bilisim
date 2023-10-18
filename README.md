@@ -335,8 +335,43 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma
 - [Introduction to Bioimage
   Analysis](https://www.youtube.com/playlist?list=PL4ta8RxZklWk88KIspPfkYZBP7ZFoAzWs)
 
+- [QuPath tutorial \#1 - Getting
+  started](https://www.youtube.com/playlist?list=PL4ta8RxZklWkPB_pwW-ZDVAGPGktAlE5Y)
+
+- [QuPath tutorial \#2 - IHC
+  analysis](https://www.youtube.com/playlist?list=PL4ta8RxZklWk_O_Z7K0bZlhmHtaH73vlh)
+
+- [QuPath Spring
+  2022](https://www.youtube.com/playlist?list=PL87AjRiLthaRmXuSkNQfQKR4HSR0-DqOM)
+
+- [From Samples to Knowledge
+  2020](https://www.youtube.com/playlist?list=PLlGXRBscPbCD89fRULm4peopF57qugciN)
+
+- [PathLAKE Masterclasses
+  2021](https://www.youtube.com/playlist?list=PL33zGSM6CfFB_rezhCamTceNVZ0xazMSp)
+
+- [TIA Centre Seminar
+  Series](https://www.youtube.com/playlist?list=PL33zGSM6CfFCN3gbUFfZ5S0R1HrnMQS7-)
+
+- [Invited Talks &
+  Presentations](https://www.youtube.com/playlist?list=PL33zGSM6CfFDz2dXzirEWjefMGiLZOeOd)
+
+- [ECDP
+  2019](https://www.youtube.com/playlist?list=PL33zGSM6CfFAhERCNI6YVePePRuTk2YQt)
+
 - [Image processing with
   python](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
+
+- [Dijital Patoloji Webinar Serisi-1 Dr. Juan Retamero
+  (**memorialsaglik?**) \#memorialpatoloji
+  (**paige_ai?**)](https://www.youtube.com/watch?v=sHIQI-w87Tc&ab_channel=SERDARBALCI)
+
+- [Dijital Patoloji Webinar Serisi-2 Dijital Patolojide
+  Validasyon](https://www.youtube.com/watch?v=qgssA3XLSpU&ab_channel=SERDARBALCI)
+
+- [Dijital Patoloji Webinar Serisi-3 Dijital Patolojinin Rutinde
+  Kullanımı Dr. Serdar
+  Balcı](https://www.youtube.com/watch?v=xlxfSO-zSrA&ab_channel=SERDARBALCI)
 
 [^1]:
     <figure>
