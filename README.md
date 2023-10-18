@@ -17,6 +17,7 @@ Serdar Balcı
   - [Okuma önerileri:](#sec-okuma-onerileri)
   - [Açık kaynak kodlu veya ücretsiz dijital patoloji
     programları:](#sec-programlar)
+  - [Videolar](#videolar)
 
 ## Patoloji ve Bilişim
 
@@ -328,6 +329,14 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma
 - ImageJ/ Fiji <https://fiji.sc/>
 - ImageScope
   <https://www.leicabiosystems.com/digital-pathology/manage/aperio-imagescope/>
+
+### Videolar
+
+- [Introduction to Bioimage
+  Analysis](https://www.youtube.com/playlist?list=PL4ta8RxZklWk88KIspPfkYZBP7ZFoAzWs)
+
+- [Image processing with
+  python](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
 
 [^1]:
     <figure>
