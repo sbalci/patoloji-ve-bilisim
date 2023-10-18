@@ -19,6 +19,8 @@ citation:
   doi: 10.17605/OSF.IO/BRZUF
 ---
 
+
+
 # Patoloji ve Bilişim {#sec-patoloji-ve-bilisim}
 
 [![DOI](https://zenodo.org/badge/594820002.svg)](https://zenodo.org/badge/latestdoi/594820002)
