@@ -400,7 +400,7 @@ Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için 
 
 -   Yapay zeka algoritma sağlayıcılarının, laboratuvarda hali hazırda bulunan PACS ve arayüz ile uyum sağlayamaması ve entegrasyon için ayrı emek ve maliyet gerekmesi de dijital patolojinin gelişimindeki engellerdendir. 
 
-
+-   Üretilen yapay zeka algoritmaları firmaların sadece kendi arayüzlerinde ve bulut sistemlerinde çalışmaktadır. Bu sistemler "vendor agnostic" hale henüz gelememişlerdir. 
 
 
 

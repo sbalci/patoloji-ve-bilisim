@@ -1,6 +1,6 @@
 # Patoloji ve Bilişim
 Serdar Balcı
-2023-10-29
+2023-10-31
 
 - [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
   - [Patolojide Bilişimin yeri
@@ -231,6 +231,10 @@ geliştirmeler hızlanacaktır.
   bulunan PACS ve arayüz ile uyum sağlayamaması ve entegrasyon için ayrı
   emek ve maliyet gerekmesi de dijital patolojinin gelişimindeki
   engellerdendir.
+
+- Üretilen yapay zeka algoritmaları firmaların sadece kendi
+  arayüzlerinde ve bulut sistemlerinde çalışmaktadır. Bu sistemler
+  “vendor agnostic” hale henüz gelememişlerdir.
 
 ### Yapay Zekanın Dijital Patolojideki Yeri
 
