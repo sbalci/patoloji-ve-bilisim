@@ -1,6 +1,6 @@
 # Patoloji ve Bilişim
 Serdar Balcı
-2023-10-31
+2023-11-01
 
 - [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
   - [Patolojide Bilişimin yeri
@@ -254,6 +254,11 @@ modellerini kendi vakalarımızda kolayca uygulamak mümkün. [^7]
 > those that work only on the paper. There is one great barrier
 > remaining now, an open source program to make \#WSI with a camera
 > attached to a microscope. I wish I had the coding skills to do that :)
+
+Gelecekte oldukça fazla QuPath kullanacağımızın bir göstergesi de Apple
+bilgisayar sunumlarında QuPath’ın örnek olarak yerini almasıdır.  
+<https://www.linkedin.com/feed/update/urn:li:activity:7125049439831916544/>  
+<https://youtube.com/clip/UgkxMxu0lmNg-9TeX7W59sJXa1dm6nqysu6N?si=4uuz7qVoWqAhYuGp>
 
 #### HistoQC
 
