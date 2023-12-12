@@ -134,7 +134,6 @@ Diktasyon ve sesi metne dönüştüren yazılımların makroskopik ve mikroskopi
 
 ### Görüntüler {#sec-goruntuler}
 
-::: {.content-hidden when-format="markdown"}
 Morfolojik analize dayanan anatomik patolojideki bilgilerden biri de görüntülerdir.
 Makroskopik ve mikroskopik görüntüler mevcuttur.
 
@@ -154,12 +153,15 @@ Artık günümüzde;
 
 Patolojinin gelecegindeki yeni teknikler arasında
 
--   üç boyutlu görüntüleme,
+-   üç boyutlu görüntüleme [^5],
 -   Raman spektroskopisi [@Movahed-Ezazi2023],
 -   FTIR (infrared spectroskop),
 -   sanal HE boyama,
 -   ve konfokal mikroskopi gibi tekniklerin yer alması beklenmektedir.
-:::
+
+[^5]: AI-driven efficient patient prognosis based on 3D pathology samples TIA Centre Seminar Series Dr. Andrew Song <https://mamba-demo.github.io/demo/> <https://www.youtube.com/watch?v=rcNCHQnK454&ab_channel=TIAWarwick>
+
+
 
 ## Dijital Patoloji Nedir? {#sec-dijital-patoloji-nedir}
 
@@ -368,7 +370,6 @@ Bir kez taranmış görüntü elde edildikten sonra bu görüntüleri gösterece
 
 ## Dijital Patolojinin Geleceği {#sec-dijital-patolojinin-gelecegi}
 
-
 Dijital patoloji hızla gelişen bir alan olduğundan patologların kendilerini bu gelişmelere hazırlamaları gerekmektedir.
 
 Altyapı yatırımları sırasında geliştirilebilir modüler yapıların tercih edilmesi; basit ekran paylaşımından öteye gitmeyen ve açık kaynak ile ulaşılabilecek programlar için masraf yapmadan önce yetkin görüş alınması önerilmektedir.
@@ -391,18 +392,21 @@ Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için 
 
 -   Meslek örgütleri radyolojide yaşanan "hizmet alımı" süreci ile "uzaktan tanı" adı altında düşürülen sağlık hizmeti kalitesi ve değersizleştirilen hekim emeğinin farkında olmalı ve buna yönelik tedbir ve tavsiyeler için hazırlanmalıdırlar.
 
--   Tarayıcıların, PACS depolarının ve arayüzlerin birbiri ile uyumu oldukça önemlidir. ICC profillerinin [^5] [^6] uyumu görüntülerin son kullanıcı olan patolog tarafından değerlendirmesinde önem taşımaktadır.
+-   Tarayıcıların, PACS depolarının ve arayüzlerin birbiri ile uyumu oldukça önemlidir.
+    ICC profillerinin [^6] [^7] uyumu görüntülerin son kullanıcı olan patolog tarafından değerlendirmesinde önem taşımaktadır
+    .
 
-[^5]: <https://en.wikipedia.org/wiki/ICC_profile>
+[^6]: <https://en.wikipedia.org/wiki/ICC_profile>
 
-[^6]: <http://www.andrewjanowczyk.com/application-of-icc-profiles-to-digital-pathology-images/>
+[^7]: <http://www.andrewjanowczyk.com/application-of-icc-profiles-to-digital-pathology-images/>
 
+```{=html}
+<!-- -->
+```
+-   Yapay zeka algoritma sağlayıcılarının, laboratuvarda hali hazırda bulunan PACS ve arayüz ile uyum sağlayamaması ve entegrasyon için ayrı emek ve maliyet gerekmesi de dijital patolojinin gelişimindeki engellerdendir.
 
--   Yapay zeka algoritma sağlayıcılarının, laboratuvarda hali hazırda bulunan PACS ve arayüz ile uyum sağlayamaması ve entegrasyon için ayrı emek ve maliyet gerekmesi de dijital patolojinin gelişimindeki engellerdendir. 
-
--   Üretilen yapay zeka algoritmaları firmaların sadece kendi arayüzlerinde ve bulut sistemlerinde çalışmaktadır. Bu sistemler "vendor agnostic" hale henüz gelememişlerdir. 
-
-
+-   Üretilen yapay zeka algoritmaları firmaların sadece kendi arayüzlerinde ve bulut sistemlerinde çalışmaktadır.
+    Bu sistemler "vendor agnostic" hale henüz gelememişlerdir.
 
 ## Yapay Zekanın Dijital Patolojideki Yeri {#sec-yapay-zekanin-dijital-patolojideki-yeri}
 
@@ -479,9 +483,9 @@ Yakın zamanda geliştirilen Python entegrasyonları ile de ileride çok daha fa
 ### QuPath {#sec-qupath}
 
 QuPath'ın WSinfer adlı eklentisi ile literatürdeki yapay zeka modellerini kendi vakalarımızda kolayca uygulamak mümkün.
-[^7]
+[^8]
 
-[^7]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
+[^8]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
 
 > I am really enthusiastic about the #wsinfer plugin of #qupath Now it will be possible to try published models of digital pathology on my cases without having to find data or code "upon reasonable request", or try correct the corrupt code on github.
 > And now the "published models" will face the real world scenario.
@@ -489,15 +493,9 @@ QuPath'ın WSinfer adlı eklentisi ile literatürdeki yapay zeka modellerini ken
 > There is one great barrier remaining now, an open source program to make #WSI with a camera attached to a microscope.
 > I wish I had the coding skills to do that :)
 
-
-Gelecekte oldukça fazla QuPath kullanacağımızın bir göstergesi de Apple bilgisayar sunumlarında QuPath'ın örnek olarak yerini almasıdır.  
-<https://www.linkedin.com/feed/update/urn:li:activity:7125049439831916544/>  
-<https://youtube.com/clip/UgkxMxu0lmNg-9TeX7W59sJXa1dm6nqysu6N?si=4uuz7qVoWqAhYuGp>  
-
-
-
-
-
+Gelecekte oldukça fazla QuPath kullanacağımızın bir göstergesi de Apple bilgisayar sunumlarında QuPath'ın örnek olarak yerini almasıdır.\
+<https://www.linkedin.com/feed/update/urn:li:activity:7125049439831916544/>\
+<https://youtube.com/clip/UgkxMxu0lmNg-9TeX7W59sJXa1dm6nqysu6N?si=4uuz7qVoWqAhYuGp>
 
 ### HistoQC {#sec-histoqc}
 
@@ -524,9 +522,9 @@ PATHOLOGY RESIDENT EXPERIENCE USING A LOW-COST 3D PRINTED MICROSCOPE FOR PORTABL
 
 ### µManager {sec-micromanager}
 
-Open Source Software for Control and Automation of Microscope Hardware [^8]
+Open Source Software for Control and Automation of Microscope Hardware [^9]
 
-[^8]: https://micro-manager.org/
+[^9]: https://micro-manager.org/
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
