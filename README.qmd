@@ -528,6 +528,135 @@ Open Source Software for Control and Automation of Microscope Hardware [^9]
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
+
+::: {.content-hidden when-format="markdown"}
+
+# Biyoistatistik Çalışmaları için Veri Hazırlama
+
+Klinikopatolojik çalışmalarda veri hazırlama aşaması oldukça önemlidir:
+- Veri ne kadar temiz olursa analiz o kadar hızlı olur. 
+- Analiz ne kadar hızlı olursa biyoistatistik uzmanı size o akdar fazla zaman ayırır. 
+
+## Temiz Veri
+
+## Veriyi Nerede Hazırlamalı?
+
+## Değişkenler
+
+### Kimlik Bilgileri
+
+### Hasta Numarası
+
+### Biyopsi Numarası
+
+### Yaş
+
+### Cinsiyet
+
+### Biyopsi/Tanı/Cerrahi Tarihi
+
+### Ana Tanı (Line Diagnosis)
+
+### Yapılan İşlem (Ameliyat Şekli)
+
+
+### Makroskopi
+
+
+### Tümör Lokalizasyonu
+
+
+
+### Tümör Boyutu
+
+
+
+### İnvaziv Tümör Boyutu
+
+
+
+### Preinvaziv Tümör Boyutu
+
+
+
+### Mikroskopik Tümör Yayılımı
+
+
+
+### Tümör Evresi
+
+
+
+### Histolojik Tip
+
+
+
+### Preinvaziv Tümör (Tümörün geliştiği polip) Tipi
+
+
+
+### Histolojik Derece
+
+
+
+### Lenfovasküler İnvazyon
+
+
+
+### Venöz İnvazyon
+Ektramural/İntramural 
+
+
+
+### Perinöryal İnvazyon
+Ekstramural/İntramural 
+
+
+
+### Tümör nekrozu
+
+
+
+### Bölgesel Lenf Nodları (Toplam sayı)
+
+
+
+### Metastatik Lenf Nodları
+
+
+
+### Reaktif Lenf Nodları
+
+
+
+### Tümör Depoziti
+
+
+
+### Cerrahi Öncesi Tedavi
+
+
+
+### Tümör Tomurcuklanması
+
+
+
+### Tümör içi/çevresi inflamasyon
+
+
+
+### Cerrahi Sınırlar
+
+
+### Çevre Doku
+
+
+
+:::
+
+
+
+
 # Referanslar ve okuma Önerileri
 
 ## Referanslar
