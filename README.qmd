@@ -599,8 +599,6 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 
 -   [Image processing with python](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW)
 
--   [Dijital Patoloji Webinar Serisi-1 Dr. Juan Retamero \@memorialsaglik #memorialpatoloji \@paige_ai](https://www.youtube.com/watch?v=sHIQI-w87Tc&ab_channel=SERDARBALCI)
+-   [Dijital Patoloji Webinar Serisi](https://youtube.com/playlist?list=PLxRBOaoEoP4L_skEApK2gt3Iyu3BZQwRh&si=KzgpKYd4Ty0u0Nsb)
 
--   [Dijital Patoloji Webinar Serisi-2 Dijital Patolojide Validasyon](https://www.youtube.com/watch?v=qgssA3XLSpU&ab_channel=SERDARBALCI)
-
--   [Dijital Patoloji Webinar Serisi-3 Dijital Patolojinin Rutinde Kullanımı Dr. Serdar Balcı](https://www.youtube.com/watch?v=xlxfSO-zSrA&ab_channel=SERDARBALCI)
+-  [Breast Cancer KI67 assessment using with the open source QuPath](https://www.youtube.com/watch?v=Yemx9tIqRs0&ab_channel=Victor)
