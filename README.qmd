@@ -462,7 +462,7 @@ Yapay zeka modellerinin nasıl geliştirildiği oldukça önemlidir.
 
 -   TCGA verisinde hatalar olduğu (Murat 2024 USCAP abstract)
 
--    Doku bulaşlarının model başarılarını etkilediği (PMID: 38185250)
+-   Doku bulaşlarının model başarılarını etkilediği @Irmakci2024
 
 unutulmamalıdır.
 
