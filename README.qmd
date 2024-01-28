@@ -161,8 +161,6 @@ Patolojinin gelecegindeki yeni teknikler arasında
 
 [^5]: AI-driven efficient patient prognosis based on 3D pathology samples TIA Centre Seminar Series Dr. Andrew Song <https://mamba-demo.github.io/demo/> <https://www.youtube.com/watch?v=rcNCHQnK454&ab_channel=TIAWarwick>
 
-
-
 ## Dijital Patoloji Nedir? {#sec-dijital-patoloji-nedir}
 
 ::: {.content-hidden when-format="markdown"}
@@ -400,9 +398,8 @@ Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için 
 
 [^7]: <http://www.andrewjanowczyk.com/application-of-icc-profiles-to-digital-pathology-images/>
 
-```{=html}
 <!-- -->
-```
+
 -   Yapay zeka algoritma sağlayıcılarının, laboratuvarda hali hazırda bulunan PACS ve arayüz ile uyum sağlayamaması ve entegrasyon için ayrı emek ve maliyet gerekmesi de dijital patolojinin gelişimindeki engellerdendir.
 
 -   Üretilen yapay zeka algoritmaları firmaların sadece kendi arayüzlerinde ve bulut sistemlerinde çalışmaktadır.
@@ -410,10 +407,10 @@ Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için 
 
 ## Yapay Zekanın Dijital Patolojideki Yeri {#sec-yapay-zekanin-dijital-patolojideki-yeri}
 
-::: {.content-hidden when-format="markdown"}
 Yapay zekanın görüntüler üzerindeki tecrübesinin patolojiye aktarılması ile bilimsel çalışmalarda sık görmeye başladığımız yapay zeka (makina öğrenmesi, derin öğrenme) kullanımı giderek günlük pratiğe de uygulanabilecek özellikler kazanmaktadır.
 Yapay zeka ile ilgili çalışmalar literatürde hesaplamalı/sayısal patoloji (computational pathology), matematiksel patoloji olarak da geçmektedir.
 
+::: {.content-hidden when-format="markdown"}
 Prostat iğne biyopsilerinin ve meme biyopsilerinin yapay zeka ile ön incelemeden geçirilmesi ve şüpheli alanların işaretlenmesi yakın zamanda rutin kullanım için onaylanmıştır.
 
 Daha önce tanı almış onbinlerce olgunun görüntüleri ve tanıları yapay zeka (artificial intelligence) ve makina öğrenmesi (machine learning) algoritmaları ile işlenmektedir.
@@ -452,6 +449,7 @@ Morfolojiden genetiğin tahmin edilebileceği, sadece morfoloji ile sağkalım h
 Mesela her taranan görüntünün rutin olarak kalite kontrolden geçirilip ona göre patoloğun göreceği ekrana aktarılması ya da o günkü tüm vakaları birbiri ile kıyaslayarak olası doku bulaşlarını tespit edip önceden uyarı verilmesi gibi hayati öneme sahip özellikler genelde ön plana çıkamamaktadır.
 
 Farklı laboratuvarlardaki verilerden geliştirilen algoritmaların diğer laboratuvarlardaki kesit ve boya kalitesi ile uyumlu olduğunun gösterilmesi gereklidir.
+:::
 
 Yapay zeka ile ilgili beklentilerin realist olması, algoritmaların ise
 
@@ -460,12 +458,19 @@ Yapay zeka ile ilgili beklentilerin realist olması, algoritmaların ise
 -   klinik pratiğe aktarılabilir ve
 -   yeni bilgiler ışığında güncellenebilir olması gerekmektedir.
 
+Yapay zeka modellerinin nasıl geliştirildiği oldukça önemlidir.
+
+-   TCGA verisinde hatalar olduğu (Murat 2024 USCAP abstract)
+
+-    Doku bulaşlarının model başarılarını etkilediği (PMID: 38185250)
+
+unutulmamalıdır.
+
 Gelecekte her mikroskopta bir kameranın olduğu, masabaşında hemen ulaşılabilecek tarama cihazlarının olduğu çalışma ortamı yanısıra, tamamen mikroskopsuz patoloji iş istasyonları da olacaktır.
 
 Algoritma destekli patoloji pratiğinde 'Bu vakayı Alp Hoca'ya danışalım' yerine 'Bu vakayı AlpApp v25'e yükleyelim' gibi cümleler yer alacağı gibi, ihtiyaca göre uygulama indirilen / geliştirilen PathAppStore'ları da hayatımızdaki yeniliklerden olacaktır.
 
 Tüm bu gelişmeler ışığında gelecekte, bilişimin, metin-görüntü işleme ve yapay zekanın patoloji bölümleri içinde bir alt grup olarak yerleşeceğini ve patoloji laboratuvarlarında bilişim sektöründen de çalışanlar olacağı tahmin edilmektedir.
-:::
 
 ## İlginç ve örnek çalışmalar {#sec-ilginc-ve-ornek-calismalar}
 
@@ -527,7 +532,6 @@ Open Source Software for Control and Automation of Microscope Hardware [^9]
 [^9]: https://micro-manager.org/
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
-
 
 # Referanslar ve okuma Önerileri
 
@@ -601,4 +605,4 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 
 -   [Dijital Patoloji Webinar Serisi](https://youtube.com/playlist?list=PLxRBOaoEoP4L_skEApK2gt3Iyu3BZQwRh&si=KzgpKYd4Ty0u0Nsb)
 
--  [Breast Cancer KI67 assessment using with the open source QuPath](https://www.youtube.com/watch?v=Yemx9tIqRs0&ab_channel=Victor)
+-   [Breast Cancer KI67 assessment using with the open source QuPath](https://www.youtube.com/watch?v=Yemx9tIqRs0&ab_channel=Victor)
