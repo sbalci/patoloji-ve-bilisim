@@ -1,6 +1,6 @@
 # Patoloji ve Bilişim
 Serdar Balcı
-2024-01-28
+2024-01-30
 
 - [Patoloji ve Bilişim](#sec-patoloji-ve-bilisim)
   - [Patolojide Bilişimin yeri
