@@ -637,5 +637,5 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 
 #### wsinfer
 
-
+{{ video https://www.youtube.com/embed/0Z589zWlFQQ }}
 
