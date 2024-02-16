@@ -593,6 +593,8 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 
 -   [From Samples to Knowledge 2020](https://www.youtube.com/playlist?list=PLlGXRBscPbCD89fRULm4peopF57qugciN)
 
+-   [From Zero to QuPath Hero](https://www.youtube.com/playlist?list=PLSCpSsEmyRpANBGQXB_oGslW9NIJz4A12)
+
 -   [PathLAKE Masterclasses 2021](https://www.youtube.com/playlist?list=PL33zGSM6CfFB_rezhCamTceNVZ0xazMSp)
 
 -   [TIA Centre Seminar Series](https://www.youtube.com/playlist?list=PL33zGSM6CfFCN3gbUFfZ5S0R1HrnMQS7-)
@@ -609,6 +611,13 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 
 
 ### QuPath
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qeAWY4If6EQbC99p&amp;list=PLSCpSsEmyRpANBGQXB_oGslW9NIJz4A12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
 
 #### Proje Oluşturma
 
