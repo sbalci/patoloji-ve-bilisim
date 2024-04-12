@@ -466,6 +466,16 @@ Yapay zeka modellerinin nasıl geliştirildiği oldukça önemlidir.
 
 unutulmamalıdır.
 
+Geliştirilmekte olan, temel modeller (foundation models) üzerine inşa edilen modeller (fine-tuning) ile patolojide yapay zeka uygulamaları yaygınlaşacaktır.
+
+<https://doi.org/10.1016/j.jpi.2024.100375>
+
+<https://arxiv.org/abs/2312.07814>
+
+<https://www.nature.com/articles/s41591-024-02857-3>
+
+<https://www.nature.com/articles/s41591-024-02856-4>
+
 Gelecekte her mikroskopta bir kameranın olduğu, masabaşında hemen ulaşılabilecek tarama cihazlarının olduğu çalışma ortamı yanısıra, tamamen mikroskopsuz patoloji iş istasyonları da olacaktır.
 
 Algoritma destekli patoloji pratiğinde 'Bu vakayı Alp Hoca'ya danışalım' yerine 'Bu vakayı AlpApp v25'e yükleyelim' gibi cümleler yer alacağı gibi, ihtiyaca göre uygulama indirilen / geliştirilen PathAppStore'ları da hayatımızdaki yeniliklerden olacaktır.
@@ -609,42 +619,32 @@ Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerind
 
 -   [Breast Cancer KI67 assessment using with the open source QuPath](https://www.youtube.com/watch?v=Yemx9tIqRs0&ab_channel=Victor)
 
-
 ### QuPath
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qeAWY4If6EQbC99p&amp;list=PLSCpSsEmyRpANBGQXB_oGslW9NIJz4A12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qeAWY4If6EQbC99p&amp;list=PLSCpSsEmyRpANBGQXB_oGslW9NIJz4A12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
+</iframe>
 
 #### Proje Oluşturma
 
 [QuPath projects](https://www.youtube.com/watch?v=kCEp89ypmAY&ab_channel=QuPath)
 
-{{ video https://www.youtube.com/embed/wo9vZccmqwc
-    title="QuPath projects" }}
+{{ video https://www.youtube.com/embed/wo9vZccmqwc title="QuPath projects" }}
 
-#### Renkleri Ayırma 
+#### Renkleri Ayırma
 
 {{ video https://www.youtube.com/embed/Oe0rfzLtTO0 }}
 
-
 {{ video https://www.youtube.com/embed/IpCDnPnFvDc }}
-
 
 #### Dokuların Tespiti
 
 {{ video https://www.youtube.com/embed/B03-TlH-yVU }}
 
-
 #### Segment Anything
 
 {{ video https://www.youtube.com/embed/J_ubK5x1vcU }}
 
-
 #### wsinfer
 
 {{ video https://www.youtube.com/embed/0Z589zWlFQQ }}
-
