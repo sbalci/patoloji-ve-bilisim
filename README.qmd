@@ -467,25 +467,26 @@ Yapay zeka modellerinin nasıl geliştirildiği oldukça önemlidir.
 unutulmamalıdır.
 
 Geliştirilmekte olan, temel modeller (foundation models) üzerine inşa edilen modeller (fine-tuning) ile patolojide yapay zeka uygulamaları yaygınlaşacaktır.
+[^8]
+
+[^8]: [Foundation Models and Information Retrieval in Digital Pathology](https://www.youtube.com/watch?v=yDVEQHmikQ8)
 
 <https://doi.org/10.1016/j.jpi.2024.100375>
 
 <https://arxiv.org/abs/2312.07814>
 
-
-Çok modlu bir üretken yapay zeka modeli olan "PathChat 2"[^8] de patolojiye özel bir chatGPT[^9] olarak hayatımızda yer almaya aday modellerdendir
+Çok modlu bir üretken yapay zeka modeli olan "PathChat 2"[^9] de patolojiye özel bir chatGPT[^10] olarak hayatımızda yer almaya aday modellerdendir
 .
 
-[^8]: <https://www.modella.ai/intro.html>
+[^9]: <https://www.modella.ai/intro.html>
 
-[^9]: <https://chatgpt.com/>
+[^10]: <https://chatgpt.com/>
 
-Towards a general-purpose foundation model for computational pathology <https://www.nature.com/articles/s41591-024-02857-3> 
+Towards a general-purpose foundation model for computational pathology <https://www.nature.com/articles/s41591-024-02857-3>
 
 A visual-language foundation model for computational pathology <https://www.nature.com/articles/s41591-024-02856-4>
 
 A Multimodal Generative AI Copilot for Human Pathology <https://www.nature.com/articles/s41586-024-07618-3>
-
 
 Gelecekte her mikroskopta bir kameranın olduğu, masabaşında hemen ulaşılabilecek tarama cihazlarının olduğu çalışma ortamı yanısıra, tamamen mikroskopsuz patoloji iş istasyonları da olacaktır.
 
@@ -509,9 +510,9 @@ Yakın zamanda geliştirilen Python entegrasyonları ile de ileride çok daha fa
 ### QuPath {#sec-qupath}
 
 QuPath'ın WSinfer adlı eklentisi ile literatürdeki yapay zeka modellerini kendi vakalarımızda kolayca uygulamak mümkün.
-[^10]
+[^11]
 
-[^10]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
+[^11]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
 
 > I am really enthusiastic about the #wsinfer plugin of #qupath Now it will be possible to try published models of digital pathology on my cases without having to find data or code "upon reasonable request", or try correct the corrupt code on github.
 > And now the "published models" will face the real world scenario.
@@ -548,9 +549,9 @@ PATHOLOGY RESIDENT EXPERIENCE USING A LOW-COST 3D PRINTED MICROSCOPE FOR PORTABL
 
 ### µManager {sec-micromanager}
 
-Open Source Software for Control and Automation of Microscope Hardware [^11]
+Open Source Software for Control and Automation of Microscope Hardware [^12]
 
-[^11]: https://micro-manager.org/
+[^12]: https://micro-manager.org/
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
