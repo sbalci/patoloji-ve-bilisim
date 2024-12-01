@@ -174,6 +174,7 @@ Bir hastanın *ilk tanı*sı için kullanımı, yakın zamanda pandeminin getird
 
 Pratikte dijital patolojinin bizi en çok zorlayan kısmı, *hazır tanısal hale gelmiş preparatların bir daha tekrardan tanı için uygun hale dönüştürülmesi* ile uğraşmak zorunda kalmamızdır.
 Mesela radyolojinin basılı filmlerini devasa tarayıcılarla tarayıp dijital ortama aktarsaydık ve adına da 'dijital radyoloji' deseydik herhalde bugün yapılana benzer olurdu.
+[^6]
 
 ![Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.](./resimler/resim3.jpg "Resim 3") *Adenoskuamöz kanserin sanal patoloji mapesi ile vakanın incelenmesi. Farklı boyalar aynı anda incelenerek tümördeki farklı bileşenler kolaylıkla değerlendirilebilir.*
 
@@ -194,6 +195,9 @@ Mesela;
 
 ![Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.](./resimler/resim7.png "Resim 7") *Akordiyon artefaktı: Eskiden kesit sırasında mikrotoma bıçağın tam yerleştirilmemesi nedeniyle görülen bu artefakt, dijital tarama sırasında kalibrasyonun tam yapılmadığı durumlarda da görülmeye başlamıştır. Bu gibi yeni kuşak artefaktlara hazırlıklı olmamız gerekmektedir.*
 :::
+
+[^6]: What is digital pathology?
+    <https://www.instagram.com/reel/DB4FS71IAf0/?igsh=ejJ0OHVqdmR4MmN5>
 
 ### Dijital Patolojinin Kullanım Alanları Nelerdir? {#sec-dijital-patolojinin-kullanim-alanlari-nelerdir}
 
@@ -391,12 +395,12 @@ Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için 
 -   Meslek örgütleri radyolojide yaşanan "hizmet alımı" süreci ile "uzaktan tanı" adı altında düşürülen sağlık hizmeti kalitesi ve değersizleştirilen hekim emeğinin farkında olmalı ve buna yönelik tedbir ve tavsiyeler için hazırlanmalıdırlar.
 
 -   Tarayıcıların, PACS depolarının ve arayüzlerin birbiri ile uyumu oldukça önemlidir.
-    ICC profillerinin [^6] [^7] uyumu görüntülerin son kullanıcı olan patolog tarafından değerlendirmesinde önem taşımaktadır
+    ICC profillerinin [^7] [^8] uyumu görüntülerin son kullanıcı olan patolog tarafından değerlendirmesinde önem taşımaktadır
     .
 
-[^6]: <https://en.wikipedia.org/wiki/ICC_profile>
+[^7]: <https://en.wikipedia.org/wiki/ICC_profile>
 
-[^7]: <http://www.andrewjanowczyk.com/application-of-icc-profiles-to-digital-pathology-images/>
+[^8]: <http://www.andrewjanowczyk.com/application-of-icc-profiles-to-digital-pathology-images/>
 
 <!-- -->
 
@@ -467,20 +471,20 @@ Yapay zeka modellerinin nasıl geliştirildiği oldukça önemlidir.
 unutulmamalıdır.
 
 Geliştirilmekte olan, temel modeller (foundation models) üzerine inşa edilen modeller (fine-tuning) ile patolojide yapay zeka uygulamaları yaygınlaşacaktır.
-[^8]
+[^9]
 
-[^8]: [Foundation Models and Information Retrieval in Digital Pathology](https://www.youtube.com/watch?v=yDVEQHmikQ8)
+[^9]: [Foundation Models and Information Retrieval in Digital Pathology](https://www.youtube.com/watch?v=yDVEQHmikQ8)
 
 <https://doi.org/10.1016/j.jpi.2024.100375>
 
 <https://arxiv.org/abs/2312.07814>
 
-Çok modlu bir üretken yapay zeka modeli olan "PathChat 2"[^9] de patolojiye özel bir chatGPT[^10] olarak hayatımızda yer almaya aday modellerdendir
+Çok modlu bir üretken yapay zeka modeli olan "PathChat 2"[^10] de patolojiye özel bir chatGPT[^11] olarak hayatımızda yer almaya aday modellerdendir
 .
 
-[^9]: <https://www.modella.ai/intro.html>
+[^10]: <https://www.modella.ai/intro.html>
 
-[^10]: <https://chatgpt.com/>
+[^11]: <https://chatgpt.com/>
 
 Towards a general-purpose foundation model for computational pathology <https://www.nature.com/articles/s41591-024-02857-3>
 
@@ -510,9 +514,9 @@ Yakın zamanda geliştirilen Python entegrasyonları ile de ileride çok daha fa
 ### QuPath {#sec-qupath}
 
 QuPath'ın WSinfer adlı eklentisi ile literatürdeki yapay zeka modellerini kendi vakalarımızda kolayca uygulamak mümkün.
-[^11]
+[^12]
 
-[^11]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
+[^12]: [preprint](https://arxiv.org/abs/2309.04631) [documentation-1](https://wsinfer.readthedocs.io/en/latest/) [documentation-2](https://qupath.readthedocs.io/en/latest/docs/deep/wsinfer.html) [image.sc](https://forum.image.sc/t/for-wsinfer-extension-how-can-i-find-model-documentations/85493) [linkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7108787522310184960/)
 
 > I am really enthusiastic about the #wsinfer plugin of #qupath Now it will be possible to try published models of digital pathology on my cases without having to find data or code "upon reasonable request", or try correct the corrupt code on github.
 > And now the "published models" will face the real world scenario.
@@ -549,9 +553,9 @@ PATHOLOGY RESIDENT EXPERIENCE USING A LOW-COST 3D PRINTED MICROSCOPE FOR PORTABL
 
 ### µManager {sec-micromanager}
 
-Open Source Software for Control and Automation of Microscope Hardware [^12]
+Open Source Software for Control and Automation of Microscope Hardware [^13]
 
-[^12]: https://micro-manager.org/
+[^13]: https://micro-manager.org/
 
 Diğer açık kaynak kodlu ve ücretsiz programların listesi okuma önerilerinde verilmiştir.
 
