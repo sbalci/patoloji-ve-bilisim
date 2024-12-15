@@ -409,6 +409,16 @@ Bu ortak formata geçilmesi ile görüntülerin daha uygun saklanabilmesi için 
 -   Üretilen yapay zeka algoritmaları firmaların sadece kendi arayüzlerinde ve bulut sistemlerinde çalışmaktadır.
     Bu sistemler "vendor agnostic" hale henüz gelememişlerdir.
 
+## Değişen Tanılar ve Tanımlamalar
+Dijital patolojinin kullanımının yaygınlaşması ile tanılarda ve tanımlamalarda yenilikler ve karmaşıklıklar ortaya çıkmaya başlamıştır. 
+ÖZellikle ölçümlerin daha hassas yapılmaya başlaması ile hem raporlama hem de klinik yaklaşımlar etkilenmektedir. 
+Mikroksopun büyük büyütme alanının farklı modellerde standardizasyonu sorun iken şimdi de milimetrekarede yapılan ölçümler sorunlara yol açmaktadır. Bunun en ilginç sonuçlarından biri de meningiomlardaki mitoz sayısının WHO sınıflama kitabında yer alış şeklidir: 
+
+"Increased mitotic activity was defined in one large clinicopathological series as ≥ 2.5 mitoses/mm2 (equating to ≥ 4 mitoses per/10 HPF of 0.16 mm2, as originally described)"
+
+https://tumourclassification.iarc.who.int/chaptercontent/45/91 
+
+
 ## Yapay Zekanın Dijital Patolojideki Yeri {#sec-yapay-zekanin-dijital-patolojideki-yeri}
 
 Yapay zekanın görüntüler üzerindeki tecrübesinin patolojiye aktarılması ile bilimsel çalışmalarda sık görmeye başladığımız yapay zeka (makina öğrenmesi, derin öğrenme) kullanımı giderek günlük pratiğe de uygulanabilecek özellikler kazanmaktadır.
